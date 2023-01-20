@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\gamesettings\\intermediate\\build\\win64\\unrealgame\\inc\\gamesettings\\uht\\gamesettings.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\lyragame\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\gamesettings\\intermediate\\build\\win64\\unrealgame\\development\\gamesettings\\definitions.gamesettings.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\inc\\commonloadingscreen\\uht\\loadingprocessinterface.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\lyragame\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\development\\commonloadingscreen\\definitions.commonloadingscreen.h",
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocessinterface.h",
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\inc\\commonloadingscreen\\uht\\loadingprocessinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\gamesubtitles\\intermediate\\build\\win64\\unrealgame\\inc\\gamesubtitles\\uht\\subtitledisplayoptions.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\lyragame\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\gamesubtitles\\intermediate\\build\\win64\\unrealgame\\development\\gamesubtitles\\definitions.gamesubtitles.h",
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\gamesubtitles\\source\\public\\subtitledisplayoptions.h",
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\gamesubtitles\\intermediate\\build\\win64\\unrealgame\\inc\\gamesubtitles\\uht\\subtitledisplayoptions.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
