@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PocketWorlds.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\PocketWorlds\Intermediate\Build\Win64\UnrealEditor\Development\PocketWorlds\Module.PocketWorlds.cpp.obj"
+"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\PocketWorlds\Intermediate\Build\Win64\UnrealEditor\Development\PocketWorlds\Default.rc2.res"
+/OUT:"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\PocketWorlds\Intermediate\Build\Win64\UnrealEditor\Development\PocketWorlds\UnrealEditor-PocketWorlds.lib"

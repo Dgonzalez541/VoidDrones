@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\development\\commonstartuploadingscreen\\module.commonstartuploadingscreen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\lyraeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\development\\commonstartuploadingscreen\\definitions.commonstartuploadingscreen.h",
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\commonpreloadscreen.cpp",
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\commonpreloadscreen.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\preloadscreen\\public\\preloadscreen.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\analytics\\analyticset\\public\\ianalyticsprovideret.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\analytics\\analyticset\\public\\analyticset.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\analytics\\analytics\\public\\analyticsproviderconfigurationdelegate.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\analytics\\analytics\\public\\interfaces\\ianalyticsprovidermodule.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\analytics\\analytics\\public\\interfaces\\ianalyticsprovider.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\preloadscreen\\public\\preloadscreenbase.h",
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\scommonpreloadingscreenwidget.h",
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\commonstartuploadingscreen.cpp",
+            "d:\\ue_5.1\\engine\\source\\runtime\\preloadscreen\\public\\preloadscreenmanager.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\slate\\public\\widgets\\svirtualwindow.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\preloadscreen\\public\\preloadslatethreading.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\applicationcore\\public\\hal\\platformapplicationmisc.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\applicationcore\\public\\windows\\windowsplatformapplicationmisc.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\applicationcore\\public\\genericplatform\\genericplatformapplicationmisc.h",
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\scommonpreloadingscreenwidget.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

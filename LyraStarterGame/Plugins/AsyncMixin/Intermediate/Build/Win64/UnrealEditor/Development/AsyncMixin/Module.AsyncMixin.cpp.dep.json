@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\asyncmixin\\intermediate\\build\\win64\\unrealeditor\\development\\asyncmixin\\module.asyncmixin.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\lyraeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\asyncmixin\\intermediate\\build\\win64\\unrealeditor\\development\\asyncmixin\\definitions.asyncmixin.h",
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\asyncmixin\\source\\private\\asyncmixin.cpp",
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\asyncmixin\\source\\public\\asyncmixin.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanager.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanagertypes.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\assetmanagertypes.generated.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrymodule.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assetregistry\\uht\\iassetregistry.generated.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\genericplatform\\genericplatformchunkinstall.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\contentencryptionconfig.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\assetmanager.generated.h",
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\plugins\\asyncmixin\\source\\private\\asyncmixinmodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
