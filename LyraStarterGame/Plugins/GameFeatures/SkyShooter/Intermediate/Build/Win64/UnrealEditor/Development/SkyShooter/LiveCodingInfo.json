@@ -1,5 +1,11 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.SkyShooter.cpp.obj": [
+			"AbilityTask_WaitForTargetLoop.gen.cpp.obj",
+			"SkyShooter.init.gen.cpp.obj",
+			"SkyShooter.cpp.obj",
+			"AbilityTask_WaitForTargetLoop.cpp.obj"
+		]
 	}
 }

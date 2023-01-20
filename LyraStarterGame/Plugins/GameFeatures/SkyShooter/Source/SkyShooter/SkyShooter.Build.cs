@@ -10,6 +10,9 @@ public class SkyShooter : ModuleRules
             new string[]
             {
                 "Core",
+                "LyraGame",
+                "ModularGameplay",
+                "CommonGame",
             }
         );
 
@@ -19,7 +22,19 @@ public class SkyShooter : ModuleRules
                 "CoreUObject",
                 "Engine",
                 "Slate",
-                "SlateCore"
+                "SlateCore",
+                "GameplayTags",
+                "GameplayTasks",
+                "GameplayAbilities",
+                "GameplayMessageRuntime",
+                "CommonUI",
+                "UMG",
+                "DataRegistry",
+                "AsyncMixin",
+                "EnhancedInput",
+                "GameSubtitles",
+                "DeveloperSettings",
+                "AIModule"
             }
         );
     }
