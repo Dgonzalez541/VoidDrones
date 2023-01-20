@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyradamagepopstyleniagara.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\lyraeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\unrealeditor\\development\\lyragame\\definitions.lyragame.h",
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\source\\lyragame\\feedback\\numberpops\\lyradamagepopstyleniagara.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "d:\\unreal\\skyshooter\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyradamagepopstyleniagara.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -3906,6 +3906,18 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/GameFeatures/SkyShooter/Binaries/Win64/UnrealEditor-SkyShooter.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/GameFeatures/SkyShooter/Binaries/Win64/UnrealEditor-SkyShooter.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/GameFeatures/SkyShooter/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/GameFeatures/TopDownArena/Binaries/Win64/UnrealEditor-TopDownArenaRuntime.dll",
 			"Type": "DynamicLibrary"
 		},

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SkyShooter-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\DebugGame\SkyShooter\SkyShooter.cpp.obj"
+"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\DebugGame\SkyShooter\Default.rc2.res"
+/OUT:"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\DebugGame\SkyShooter\UnrealEditor-SkyShooter-Win64-DebugGame.lib"

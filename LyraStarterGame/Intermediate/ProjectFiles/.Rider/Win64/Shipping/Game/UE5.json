@@ -46653,11 +46653,6 @@
 				"PropertyAccessEditor"
 			]
 		},
-		"RiderLink": 
-		{
-			"File": "D:\\UE_5.1\\Engine\\Plugins\\Developer\\RiderLink\\RiderLink.uplugin",
-			"Type": "Engine"
-		},
 		"RiderSourceCodeAccess": 
 		{
 			"File": "D:\\UE_5.1\\Engine\\Plugins\\Developer\\RiderSourceCodeAccess\\RiderSourceCodeAccess.uplugin",
