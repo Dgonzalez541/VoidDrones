@@ -22,5 +22,12 @@
 			"Name": "ShooterCore",
 			"Enabled": true
 		}
+	],
+	"Modules": [
+		{
+			"Name": "SkyShooter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
 	]
 }
