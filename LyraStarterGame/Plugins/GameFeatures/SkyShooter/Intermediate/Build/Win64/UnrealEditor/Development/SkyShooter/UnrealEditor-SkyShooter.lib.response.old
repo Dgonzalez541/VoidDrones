@@ -7,6 +7,8 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\SkyShooter.cpp.obj"
+"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Module.SkyShooter.cpp.obj"
+"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\AbilityTask_WaitForTargetLoop.gen.cpp.obj"
+"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\SkyShooter.init.gen.cpp.obj"
 "D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Default.rc2.res"
 /OUT:"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\UnrealEditor-SkyShooter.lib"
