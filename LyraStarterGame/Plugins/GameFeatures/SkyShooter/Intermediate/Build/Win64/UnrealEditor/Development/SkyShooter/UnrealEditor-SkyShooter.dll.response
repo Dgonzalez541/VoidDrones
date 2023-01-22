@@ -35,6 +35,7 @@
 /FUNCTIONPADMIN:6
 "D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Module.SkyShooter.cpp.obj"
+"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\AbilityTask_EventTick.cpp.obj"
 "D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
