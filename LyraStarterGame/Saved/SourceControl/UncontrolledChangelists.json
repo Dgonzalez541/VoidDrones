@@ -12,7 +12,9 @@
 				"D:/Unreal/SkyShooter/SkyShooter/LyraStarterGame/Plugins/GameFeatures/SkyShooter/Content/Game/Roll/W_RollTouchButton.uasset",
 				"D:/Unreal/SkyShooter/SkyShooter/LyraStarterGame/Plugins/GameFeatures/SkyShooter/Content/Game/AbilitySet_SkyShooterHero.uasset",
 				"D:/Unreal/SkyShooter/SkyShooter/LyraStarterGame/Plugins/GameFeatures/SkyShooter/Content/Maps/HourGlass.umap",
-				"D:/Unreal/SkyShooter/SkyShooter/LyraStarterGame/Plugins/GameFeatures/SkyShooter/Content/Game/Wallrun/GA_WallRun.uasset"
+				"D:/Unreal/SkyShooter/SkyShooter/LyraStarterGame/Plugins/GameFeatures/SkyShooter/Content/Game/Wallrun/GA_WallRun.uasset",
+				"D:/Unreal/SkyShooter/SkyShooter/LyraStarterGame/Plugins/GameFeatures/SkyShooter/Content/Game/Wallrun/Direction_Enum.uasset",
+				"D:/Unreal/SkyShooter/SkyShooter/LyraStarterGame/Plugins/GameFeatures/SkyShooter/Content/Game/Wallrun/SkyShooterDirection_Enum.uasset"
 			]
 		}
 	]
