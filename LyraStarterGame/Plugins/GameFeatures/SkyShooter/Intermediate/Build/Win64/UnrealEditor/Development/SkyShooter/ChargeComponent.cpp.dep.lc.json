@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\gamefeatures\\skyshooter\\source\\skyshooter\\private\\chargecomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\lyraeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\gamefeatures\\skyshooter\\intermediate\\build\\win64\\unrealeditor\\development\\skyshooter\\definitions.skyshooter.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\gamefeatures\\skyshooter\\source\\skyshooter\\public\\chargecomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\experimental\\modulargameplay\\source\\modulargameplay\\public\\components\\gameframeworkcomponent.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\experimental\\modulargameplay\\intermediate\\build\\win64\\unrealeditor\\inc\\modulargameplay\\uht\\gameframeworkcomponent.generated.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\gamefeatures\\skyshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\skyshooter\\uht\\chargecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

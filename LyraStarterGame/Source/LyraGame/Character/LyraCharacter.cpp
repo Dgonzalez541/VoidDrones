@@ -5,6 +5,7 @@
 #include "AI/Navigation/NavigationTypes.h"
 #include "AbilitySystem/LyraAbilitySystemComponent.h"
 #include "AbilitySystemComponent.h"
+#include "ChargeComponent.h"
 #include "Camera/LyraCameraComponent.h"
 #include "Character/LyraHealthComponent.h"
 #include "Character/LyraPawnExtensionComponent.h"
@@ -97,6 +98,7 @@ ALyraCharacter::ALyraCharacter(const FObjectInitializer& ObjectInitializer)
 	HealthComponent->OnDeathFinished.AddDynamic(this, &ThisClass::OnDeathFinished);
 
 	ManaComponent = CreateDefaultSubobject<UManaComponent>(TEXT("ManaComponent"));
+	ChargeComponent = CreateDefaultSubobject<UChargeComponent>(TEXT("ChargeComponent"));
 	
 	CameraComponent = CreateDefaultSubobject<ULyraCameraComponent>(TEXT("CameraComponent"));
 	CameraComponent->SetRelativeLocation(FVector(-300.0f, 0.0f, 75.0f));

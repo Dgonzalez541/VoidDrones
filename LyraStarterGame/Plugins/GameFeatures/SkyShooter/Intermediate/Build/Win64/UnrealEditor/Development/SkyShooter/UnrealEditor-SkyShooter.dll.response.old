@@ -35,10 +35,7 @@
 /FUNCTIONPADMIN:6
 "C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Module.SkyShooter.cpp.obj"
-"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\ManaComponent.cpp.obj"
-"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\AbilityTask_EventTick.gen.cpp.obj"
-"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\AbilityTask_WaitForTargetLoop.gen.cpp.obj"
-"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\SkyShooter.init.gen.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\ChargeComponent.cpp.obj"
 "C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"

@@ -18,6 +18,8 @@ public:
 	USkyShooterCombatSet();
 	ATTRIBUTE_ACCESSORS(USkyShooterCombatSet, Mana);
 	ATTRIBUTE_ACCESSORS(USkyShooterCombatSet, MaxMana);
+	ATTRIBUTE_ACCESSORS(USkyShooterCombatSet, Charge);
+	ATTRIBUTE_ACCESSORS(USkyShooterCombatSet, MaxCharges);
 
 protected:
 	virtual void PreAttributeBaseChange(const FGameplayAttribute& Attribute, float& NewValue) const override;
@@ -27,6 +29,11 @@ protected:
 	void OnRep_Mana(const FGameplayAttributeData& OldValue);
 	UFUNCTION()
 	void OnRep_MaxMana(const FGameplayAttributeData& OldValue);
+
+	UFUNCTION()
+	void OnRep_Charge(const FGameplayAttributeData& OldValue);
+	UFUNCTION()
+	void OnRep_MaxCharges(const FGameplayAttributeData& OldValue);
 
 	void ClampAttribute(const FGameplayAttribute& Attribute, float& NewValue) const;
 	
@@ -38,4 +45,10 @@ private:
 	// The current max Mana attribute.  Max Mana is an attribute since gameplay effects can modify it.
 	UPROPERTY(BlueprintReadOnly, ReplicatedUsing = OnRep_MaxMana, Category = "Lyra|Mana", Meta = (AllowPrivateAccess = true))
 	FGameplayAttributeData MaxMana;
+
+	UPROPERTY(BlueprintReadOnly, ReplicatedUsing = OnRep_Charge, Category = "Lyra|Charge", Meta = (AllowPrivateAccess = true))
+	FGameplayAttributeData Charge;
+
+	UPROPERTY(BlueprintReadOnly, ReplicatedUsing = OnRep_MaxCharges, Category = "Lyra|Charge", Meta = (AllowPrivateAccess = true))
+	FGameplayAttributeData MaxCharges;
 };

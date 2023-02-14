@@ -8,7 +8,5 @@
 /NODEFAULTLIB
 "C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\Development\GameSubtitles\Module.GameSubtitles.cpp.obj"
-"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\Development\GameSubtitles\GameSubtitles.init.gen.cpp.obj"
-"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\Development\GameSubtitles\SubtitleDisplayOptions.gen.cpp.obj"
 "C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\Development\GameSubtitles\Default.rc2.res"
 /OUT:"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\Development\GameSubtitles\UnrealEditor-GameSubtitles.lib"

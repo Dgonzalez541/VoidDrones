@@ -35,8 +35,6 @@
 /FUNCTIONPADMIN:6
 "C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\Development\GameSettings\Module.GameSettings.cpp.obj"
-"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\Development\GameSettings\GameSettings.init.gen.cpp.obj"
-"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\Development\GameSettings\KeyAlreadyBoundWarning.gen.cpp.obj"
 "C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\Development\GameSettings\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\ApplicationCore\UnrealEditor-ApplicationCore.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\PropertyPath\UnrealEditor-PropertyPath.lib"

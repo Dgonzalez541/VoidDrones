@@ -12,7 +12,8 @@
 #include "ModularCharacter.h"
 #include "Teams/LyraTeamAgentInterface.h"
 #include "UObject/UObjectGlobals.h"
-#include "ManaComponent.h"
+#include "ManaComponent.h" 
+#include "ChargeComponent.h" 
 
 #include "LyraCharacter.generated.h"
 
@@ -156,6 +157,9 @@ private:
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Lyra|Character", Meta = (AllowPrivateAccess = "true"))
 	TObjectPtr<UManaComponent> ManaComponent;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Lyra|Character", Meta = (AllowPrivateAccess = "true"))
+	TObjectPtr<UChargeComponent> ChargeComponent;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Lyra|Character", Meta = (AllowPrivateAccess = "true"))
 	TObjectPtr<ULyraCameraComponent> CameraComponent;

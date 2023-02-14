@@ -6,6 +6,7 @@
         "PCH": "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\lyraeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
             "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\uiextension\\intermediate\\build\\win64\\unrealeditor\\development\\uiextension\\definitions.uiextension.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\uiextension\\intermediate\\build\\win64\\unrealeditor\\inc\\uiextension\\uht\\uiextension.init.gen.cpp",
             "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\uiextension\\source\\private\\loguiextension.cpp",
             "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\uiextension\\source\\private\\loguiextension.h",
             "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\uiextension\\source\\private\\uiextensionmodule.cpp",

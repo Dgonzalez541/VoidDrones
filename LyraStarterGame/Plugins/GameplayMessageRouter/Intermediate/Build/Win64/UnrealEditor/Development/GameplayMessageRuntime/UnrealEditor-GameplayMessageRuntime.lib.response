@@ -8,7 +8,5 @@
 /NODEFAULTLIB
 "C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageRuntime\Module.GameplayMessageRuntime.cpp.obj"
-"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageRuntime\GameplayMessageRuntime.init.gen.cpp.obj"
-"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageRuntime\GameplayMessageTypes2.gen.cpp.obj"
 "C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageRuntime\Default.rc2.res"
 /OUT:"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageRuntime\UnrealEditor-GameplayMessageRuntime.lib"

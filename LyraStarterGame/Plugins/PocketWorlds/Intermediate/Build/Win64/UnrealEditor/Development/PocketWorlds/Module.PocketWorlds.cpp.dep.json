@@ -6,6 +6,7 @@
         "PCH": "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\lyraeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
             "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\pocketworlds\\intermediate\\build\\win64\\unrealeditor\\development\\pocketworlds\\definitions.pocketworlds.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\pocketworlds\\intermediate\\build\\win64\\unrealeditor\\inc\\pocketworlds\\uht\\pocketworlds.init.gen.cpp",
             "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\pocketworlds\\source\\private\\pocketcapture.cpp",
             "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\pocketworlds\\source\\public\\pocketcapture.h",
             "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\pocketworlds\\intermediate\\build\\win64\\unrealeditor\\inc\\pocketworlds\\uht\\pocketcapture.generated.h",
