@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ShooterCoreRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\Module.ShooterCoreRuntime.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\Default.rc2.res"
+/OUT:"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\UnrealEditor-ShooterCoreRuntime.lib"

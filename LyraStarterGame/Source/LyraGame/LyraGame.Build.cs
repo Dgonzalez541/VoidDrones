@@ -70,7 +70,7 @@ public class LyraGame : ModuleRules
 				"UIExtension",
 				"ClientPilot",
 				"AudioModulation",
-				"EngineSettings",
+				"EngineSettings", "SkyShooter",
 			}
 		);
 

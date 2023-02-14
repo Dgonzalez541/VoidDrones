@@ -6,7 +6,8 @@
 /NAME:"UnrealEditor-ModularGameplayActors.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\Module.ModularGameplayActors.cpp.obj"
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\Default.rc2.res"
-/OUT:"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\UnrealEditor-ModularGameplayActors.lib"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\Module.ModularGameplayActors.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\ModularGameplayActors.init.gen.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\Default.rc2.res"
+/OUT:"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\UnrealEditor-ModularGameplayActors.lib"

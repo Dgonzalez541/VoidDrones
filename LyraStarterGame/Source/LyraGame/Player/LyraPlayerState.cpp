@@ -28,6 +28,7 @@
 #include "Logging/LogMacros.h"
 #include "LyraLogChannels.h"
 #include "LyraPlayerController.h"
+#include "SkyShooterCombatSet.h"
 #include "Misc/AssertionMacros.h"
 #include "Net/Core/PushModel/PushModel.h"
 #include "Net/UnrealNetwork.h"
@@ -52,7 +53,7 @@ ALyraPlayerState::ALyraPlayerState(const FObjectInitializer& ObjectInitializer)
 	AbilitySystemComponent->SetReplicationMode(EGameplayEffectReplicationMode::Mixed);
 
 	CreateDefaultSubobject<ULyraHealthSet>(TEXT("HealthSet"));
-	CreateDefaultSubobject<ULyraCombatSet>(TEXT("CombatSet"));
+	CreateDefaultSubobject<USkyShooterCombatSet>(TEXT("CombatSet"));
 
 	// AbilitySystemComponent needs to be updated at a high frequency.
 	NetUpdateFrequency = 100.0f;

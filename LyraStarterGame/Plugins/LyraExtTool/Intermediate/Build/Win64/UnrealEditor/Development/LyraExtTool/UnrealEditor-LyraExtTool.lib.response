@@ -6,7 +6,8 @@
 /NAME:"UnrealEditor-LyraExtTool.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\LyraExtTool\Intermediate\Build\Win64\UnrealEditor\Development\LyraExtTool\Module.LyraExtTool.cpp.obj"
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\LyraExtTool\Intermediate\Build\Win64\UnrealEditor\Development\LyraExtTool\Default.rc2.res"
-/OUT:"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\LyraExtTool\Intermediate\Build\Win64\UnrealEditor\Development\LyraExtTool\UnrealEditor-LyraExtTool.lib"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\LyraExtTool\Intermediate\Build\Win64\UnrealEditor\Development\LyraExtTool\Module.LyraExtTool.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\LyraExtTool\Intermediate\Build\Win64\UnrealEditor\Development\LyraExtTool\LyraExtTool.init.gen.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\LyraExtTool\Intermediate\Build\Win64\UnrealEditor\Development\LyraExtTool\Default.rc2.res"
+/OUT:"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\LyraExtTool\Intermediate\Build\Win64\UnrealEditor\Development\LyraExtTool\UnrealEditor-LyraExtTool.lib"

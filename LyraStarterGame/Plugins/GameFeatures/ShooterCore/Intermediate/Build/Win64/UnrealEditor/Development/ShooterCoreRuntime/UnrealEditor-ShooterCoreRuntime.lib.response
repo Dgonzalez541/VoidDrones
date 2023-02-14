@@ -6,7 +6,10 @@
 /NAME:"UnrealEditor-ShooterCoreRuntime.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\Module.ShooterCoreRuntime.cpp.obj"
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\Default.rc2.res"
-/OUT:"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\UnrealEditor-ShooterCoreRuntime.lib"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\Module.ShooterCoreRuntime.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\ControlPointStatusMessage.gen.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\IAimAssistTargetInterface.gen.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\ShooterCoreRuntime.init.gen.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\Default.rc2.res"
+/OUT:"C:\UnrealProjects\SkyShooter\SKyShooterOld\SkyShooter\LyraStarterGame\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\UnrealEditor-ShooterCoreRuntime.lib"

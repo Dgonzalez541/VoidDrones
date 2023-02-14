@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\unrealeditor\\inc\\topdownarenaruntime\\uht\\topdownarenaruntime.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\lyraeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\unrealeditor\\development\\topdownarenaruntime\\definitions.topdownarenaruntime.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

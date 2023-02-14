@@ -42,6 +42,7 @@
 #include "UObject/Object.h"
 #include "UObject/ObjectPtr.h"
 #include "UObject/UObjectBaseUtility.h"
+#include "ManaComponent.h"
 
 #include UE_INLINE_GENERATED_CPP_BY_NAME(LyraCharacter)
 
@@ -95,6 +96,8 @@ ALyraCharacter::ALyraCharacter(const FObjectInitializer& ObjectInitializer)
 	HealthComponent->OnDeathStarted.AddDynamic(this, &ThisClass::OnDeathStarted);
 	HealthComponent->OnDeathFinished.AddDynamic(this, &ThisClass::OnDeathFinished);
 
+	ManaComponent = CreateDefaultSubobject<UManaComponent>(TEXT("ManaComponent"));
+	
 	CameraComponent = CreateDefaultSubobject<ULyraCameraComponent>(TEXT("CameraComponent"));
 	CameraComponent->SetRelativeLocation(FVector(-300.0f, 0.0f, 75.0f));
 
@@ -221,6 +224,7 @@ void ALyraCharacter::OnAbilitySystemInitialized()
 	check(LyraASC);
 
 	HealthComponent->InitializeWithAbilitySystem(LyraASC);
+	ManaComponent->InitializeWithAbilitySystem(LyraASC);
 
 	InitializeGameplayTags();
 }
@@ -228,6 +232,7 @@ void ALyraCharacter::OnAbilitySystemInitialized()
 void ALyraCharacter::OnAbilitySystemUninitialized()
 {
 	HealthComponent->UninitializeFromAbilitySystem();
+	ManaComponent->UninitializeFromAbilitySystem();
 }
 
 void ALyraCharacter::PossessedBy(AController* NewController)

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\controlpointstatusmessage.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\lyraeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\development\\shootercoreruntime\\definitions.shootercoreruntime.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\messages\\controlpointstatusmessage.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooterold\\skyshooter\\lyrastartergame\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\controlpointstatusmessage.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
