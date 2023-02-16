@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeLyraExtTool_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000040,
-				0x4BD588E9,
+				0xB554CF03,
 				0x5B1198D9,
 				METADATA_PARAMS(nullptr, 0)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeLyraExtTool_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_LyraExtTool.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LyraExtTool(Z_Construct_UPackage__Script_LyraExtTool, TEXT("/Script/LyraExtTool"), Z_Registration_Info_UPackage__Script_LyraExtTool, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x4BD588E9, 0x5B1198D9));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LyraExtTool(Z_Construct_UPackage__Script_LyraExtTool, TEXT("/Script/LyraExtTool"), Z_Registration_Info_UPackage__Script_LyraExtTool, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB554CF03, 0x5B1198D9));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
