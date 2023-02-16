@@ -227,10 +227,11 @@ void ALyraCharacter::OnAbilitySystemInitialized()
 
 	HealthComponent->InitializeWithAbilitySystem(LyraASC);
 	ManaComponent->InitializeWithAbilitySystem(LyraASC);
+	ChargeComponent->InitializeWithAbilitySystem(LyraASC);
 
 	InitializeGameplayTags();
 }
-
+		
 void ALyraCharacter::OnAbilitySystemUninitialized()
 {
 	HealthComponent->UninitializeFromAbilitySystem();
