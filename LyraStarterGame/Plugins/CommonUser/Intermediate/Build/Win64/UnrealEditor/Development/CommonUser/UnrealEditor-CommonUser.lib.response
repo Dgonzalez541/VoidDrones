@@ -6,9 +6,7 @@
 /NAME:"UnrealEditor-CommonUser.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Unreal\SkyShooter_new\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\CommonUser\Intermediate\Build\Win64\UnrealEditor\Development\CommonUser\Module.CommonUser.cpp.obj"
-"D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\CommonUser\Intermediate\Build\Win64\UnrealEditor\Development\CommonUser\CommonUser.init.gen.cpp.obj"
-"D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\CommonUser\Intermediate\Build\Win64\UnrealEditor\Development\CommonUser\CommonUserTypes.gen.cpp.obj"
-"D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\CommonUser\Intermediate\Build\Win64\UnrealEditor\Development\CommonUser\Default.rc2.res"
-/OUT:"D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\CommonUser\Intermediate\Build\Win64\UnrealEditor\Development\CommonUser\UnrealEditor-CommonUser.lib"
+"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\CommonUser\Intermediate\Build\Win64\UnrealEditor\Development\CommonUser\Module.CommonUser.cpp.obj"
+"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\CommonUser\Intermediate\Build\Win64\UnrealEditor\Development\CommonUser\Default.rc2.res"
+/OUT:"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\CommonUser\Intermediate\Build\Win64\UnrealEditor\Development\CommonUser\UnrealEditor-CommonUser.lib"

@@ -6,8 +6,7 @@
 /NAME:"UnrealEditor-TopDownArenaRuntime.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Unreal\SkyShooter_new\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\UnrealEditor\Development\TopDownArenaRuntime\Module.TopDownArenaRuntime.cpp.obj"
-"D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\UnrealEditor\Development\TopDownArenaRuntime\TopDownArenaRuntime.init.gen.cpp.obj"
-"D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\UnrealEditor\Development\TopDownArenaRuntime\Default.rc2.res"
-/OUT:"D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\UnrealEditor\Development\TopDownArenaRuntime\UnrealEditor-TopDownArenaRuntime.lib"
+"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\UnrealEditor\Development\TopDownArenaRuntime\Module.TopDownArenaRuntime.cpp.obj"
+"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\UnrealEditor\Development\TopDownArenaRuntime\Default.rc2.res"
+/OUT:"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameFeatures\TopDownArena\Intermediate\Build\Win64\UnrealEditor\Development\TopDownArenaRuntime\UnrealEditor-TopDownArenaRuntime.lib"

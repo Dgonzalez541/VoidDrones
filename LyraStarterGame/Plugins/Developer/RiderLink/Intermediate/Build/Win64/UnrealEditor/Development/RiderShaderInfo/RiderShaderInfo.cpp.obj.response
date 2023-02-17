@@ -1,4 +1,4 @@
-D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\Developer\RiderLink\Source\RiderShaderInfo\RiderShaderInfo.cpp
+C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\Developer\RiderLink\Source\RiderShaderInfo\RiderShaderInfo.cpp
 /I .
 /I Runtime
 /I Runtime\TraceLog\Public
@@ -7,17 +7,17 @@ D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\Developer\RiderLink\Source\Ride
 /I Runtime\Json\Public
 /I Runtime\RenderCore\Public
 /I Runtime\RHI\Public
-/I D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\Developer\RiderLink\Source
+/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\Developer\RiderLink\Source
 /external:W0
 /external:I ThirdParty\mimalloc\include
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\Definitions.h"
-/Fo"D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.obj"
-/sourceDependencies D:\Unreal\SkyShooter_new\LyraStarterGame\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.dep.json
+/FI"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\Definitions.h"
+/Fo"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.obj"
+/sourceDependencies C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

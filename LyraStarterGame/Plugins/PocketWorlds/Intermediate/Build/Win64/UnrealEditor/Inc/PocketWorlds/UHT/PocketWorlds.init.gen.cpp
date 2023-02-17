@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodePocketWorlds_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xB9F9318B,
+				0xB9710327,
 				0x38DDFFB2,
 				METADATA_PARAMS(nullptr, 0)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodePocketWorlds_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_PocketWorlds.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PocketWorlds(Z_Construct_UPackage__Script_PocketWorlds, TEXT("/Script/PocketWorlds"), Z_Registration_Info_UPackage__Script_PocketWorlds, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB9F9318B, 0x38DDFFB2));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_PocketWorlds(Z_Construct_UPackage__Script_PocketWorlds, TEXT("/Script/PocketWorlds"), Z_Registration_Info_UPackage__Script_PocketWorlds, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB9710327, 0x38DDFFB2));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

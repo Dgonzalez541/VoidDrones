@@ -2,27 +2,27 @@
 	"Targets": [
 		{
 			"Name": "LyraClient",
-			"Path": "D:\\Unreal\\SkyShooter\\SkyShooter\\LyraStarterGame\\Source\\LyraClient.Target.cs",
+			"Path": "C:\\UnrealProjects\\test\\SkyShooter\\LyraStarterGame\\Source\\LyraClient.Target.cs",
 			"Type": "Client"
 		},
 		{
 			"Name": "LyraEditor",
-			"Path": "D:\\Unreal\\SkyShooter\\SkyShooter\\LyraStarterGame\\Source\\LyraEditor.Target.cs",
+			"Path": "C:\\UnrealProjects\\test\\SkyShooter\\LyraStarterGame\\Source\\LyraEditor.Target.cs",
 			"Type": "Editor"
 		},
 		{
 			"Name": "LyraGame",
-			"Path": "D:\\Unreal\\SkyShooter\\SkyShooter\\LyraStarterGame\\Source\\LyraGame.Target.cs",
+			"Path": "C:\\UnrealProjects\\test\\SkyShooter\\LyraStarterGame\\Source\\LyraGame.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "LyraGameEOS",
-			"Path": "D:\\Unreal\\SkyShooter\\SkyShooter\\LyraStarterGame\\Source\\LyraGameEOS.Target.cs",
+			"Path": "C:\\UnrealProjects\\test\\SkyShooter\\LyraStarterGame\\Source\\LyraGameEOS.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "LyraServer",
-			"Path": "D:\\Unreal\\SkyShooter\\SkyShooter\\LyraStarterGame\\Source\\LyraServer.Target.cs",
+			"Path": "C:\\UnrealProjects\\test\\SkyShooter\\LyraStarterGame\\Source\\LyraServer.Target.cs",
 			"Type": "Server"
 		}
 	]
