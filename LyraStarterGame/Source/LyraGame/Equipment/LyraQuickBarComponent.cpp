@@ -90,6 +90,7 @@ void ULyraQuickBarComponent::CycleActiveSlotBackward()
 	} while (NewIndex != OldIndex);
 }
 
+
 void ULyraQuickBarComponent::EquipItemInSlot()
 {
 	check(Slots.IsValidIndex(ActiveSlotIndex));
@@ -127,6 +128,8 @@ void ULyraQuickBarComponent::UnequipItemInSlot()
 	}
 }
 
+
+
 ULyraEquipmentManagerComponent* ULyraQuickBarComponent::FindEquipmentManager() const
 {
 	if (AController* OwnerController = Cast<AController>(GetOwner()))
@@ -151,6 +154,15 @@ void ULyraQuickBarComponent::SetActiveSlotIndex_Implementation(int32 NewIndex)
 
 		OnRep_ActiveSlotIndex();
 	}
+}
+
+void ULyraQuickBarComponent::UnequipWeapons()
+{
+	UnequipItemInSlot();
+
+	ActiveSlotIndex = -1;
+
+	OnRep_ActiveSlotIndex();
 }
 
 ULyraInventoryItemInstance* ULyraQuickBarComponent::GetActiveSlotItem() const

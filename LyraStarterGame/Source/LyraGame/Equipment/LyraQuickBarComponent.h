@@ -34,6 +34,9 @@ public:
 	UFUNCTION(Server, Reliable, BlueprintCallable, Category="Lyra")
 	void SetActiveSlotIndex(int32 NewIndex);
 
+	UFUNCTION( BlueprintCallable, BlueprintAuthorityOnly, Category="Lyra")
+	void UnequipWeapons();
+
 	UFUNCTION(BlueprintCallable, BlueprintPure=false)
 	TArray<ULyraInventoryItemInstance*> GetSlots() const
 	{
