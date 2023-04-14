@@ -165,6 +165,22 @@ void ULyraQuickBarComponent::UnequipWeapons()
 	OnRep_ActiveSlotIndex();
 }
 
+void ULyraQuickBarComponent::ToggleWeapons()
+{
+	if ((ActiveSlotIndex != PreviousSlotIndex))
+	{
+		ActiveSlotIndex = PreviousSlotIndex;
+		EquipItemInSlot();
+		OnRep_ActiveSlotIndex();
+		PreviousSlotIndex = -1;
+	}
+	else
+	{
+		PreviousSlotIndex = ActiveSlotIndex;
+		UnequipWeapons();
+	}
+}
+
 ULyraInventoryItemInstance* ULyraQuickBarComponent::GetActiveSlotItem() const
 {
 	return Slots.IsValidIndex(ActiveSlotIndex) ? Slots[ActiveSlotIndex] : nullptr;

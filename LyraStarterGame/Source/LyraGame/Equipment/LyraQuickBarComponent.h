@@ -37,6 +37,9 @@ public:
 	UFUNCTION( BlueprintCallable, BlueprintAuthorityOnly, Category="Lyra")
 	void UnequipWeapons();
 
+	UFUNCTION( BlueprintCallable, BlueprintAuthorityOnly, Category="Lyra")
+	void ToggleWeapons();
+
 	UFUNCTION(BlueprintCallable, BlueprintPure=false)
 	TArray<ULyraInventoryItemInstance*> GetSlots() const
 	{
@@ -85,6 +88,8 @@ private:
 
 	UPROPERTY()
 	TObjectPtr<ULyraEquipmentInstance> EquippedItem;
+
+	int32 PreviousSlotIndex = -1;
 };
 
 
