@@ -3,7 +3,6 @@
 #include "C:/UnrealProjects/test/SkyShooter/LyraStarterGame/Plugins/GameFeatures/SkyShooter/Intermediate/Build/Win64/UnrealEditor/Inc/SkyShooter/UHT/AbilityTask_WaitForTargetLoop.gen.cpp"
 #include "C:/UnrealProjects/test/SkyShooter/LyraStarterGame/Plugins/GameFeatures/SkyShooter/Intermediate/Build/Win64/UnrealEditor/Inc/SkyShooter/UHT/ChargeComponent.gen.cpp"
 #include "C:/UnrealProjects/test/SkyShooter/LyraStarterGame/Plugins/GameFeatures/SkyShooter/Intermediate/Build/Win64/UnrealEditor/Inc/SkyShooter/UHT/ManaComponent.gen.cpp"
-#include "C:/UnrealProjects/test/SkyShooter/LyraStarterGame/Plugins/GameFeatures/SkyShooter/Intermediate/Build/Win64/UnrealEditor/Inc/SkyShooter/UHT/SkyShooter.init.gen.cpp"
 #include "C:/UnrealProjects/test/SkyShooter/LyraStarterGame/Plugins/GameFeatures/SkyShooter/Source/SkyShooter/Private/AbilitySystem/Tasks/AbilityTask_EventTick.cpp"
 #include "C:/UnrealProjects/test/SkyShooter/LyraStarterGame/Plugins/GameFeatures/SkyShooter/Source/SkyShooter/Private/AbilitySystem/Tasks/AbilityTask_WaitForTargetLoop.cpp"
 #include "C:/UnrealProjects/test/SkyShooter/LyraStarterGame/Plugins/GameFeatures/SkyShooter/Source/SkyShooter/Private/ChargeComponent.cpp"

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\test\\skyshooter\\lyrastartergame\\plugins\\gamefeatures\\skyshooter\\source\\skyshooter\\private\\abilitysystem\\ga_glide.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\test\\skyshooter\\lyrastartergame\\intermediate\\build\\win64\\lyraeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\test\\skyshooter\\lyrastartergame\\plugins\\gamefeatures\\skyshooter\\intermediate\\build\\win64\\unrealeditor\\development\\skyshooter\\definitions.skyshooter.h",
+            "c:\\unrealprojects\\test\\skyshooter\\lyrastartergame\\plugins\\gamefeatures\\skyshooter\\source\\skyshooter\\public\\abilitysystem\\ga_glide.h",
+            "c:\\unrealprojects\\test\\skyshooter\\lyrastartergame\\plugins\\gamefeatures\\skyshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\skyshooter\\uht\\ga_glide.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
