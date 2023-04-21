@@ -5,15 +5,15 @@
 			"AbilityTask_EventTick.gen.cpp.obj",
 			"AbilityTask_WaitForTargetLoop.gen.cpp.obj",
 			"ChargeComponent.gen.cpp.obj",
+			"GlideComponent.gen.cpp.obj",
 			"ManaComponent.gen.cpp.obj",
+			"SkyShooter.init.gen.cpp.obj",
+			"GlideComponent.cpp.obj",
 			"AbilityTask_EventTick.cpp.obj",
 			"AbilityTask_WaitForTargetLoop.cpp.obj",
 			"ChargeComponent.cpp.obj",
 			"ManaComponent.cpp.obj",
-			"SkyShooter.cpp.obj",
-			"GlideComponent.gen.cpp.obj",
-			"SkyShooter.init.gen.cpp.obj",
-			"GlideComponent.cpp.obj"
+			"SkyShooter.cpp.obj"
 		]
 	}
 }

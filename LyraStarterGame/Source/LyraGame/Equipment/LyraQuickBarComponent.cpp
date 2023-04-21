@@ -130,7 +130,7 @@ void ULyraQuickBarComponent::UnequipItemInSlot()
 
 
 
-ULyraEquipmentManagerComponent* ULyraQuickBarComponent::FindEquipmentManager() const
+ULyraEquipmentManagerComponent* ULyraQuickBarComponent:: FindEquipmentManager() const
 {
 	if (AController* OwnerController = Cast<AController>(GetOwner()))
 	{
