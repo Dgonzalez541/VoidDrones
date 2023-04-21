@@ -29,13 +29,13 @@ void EmptyLinkFunctionForGeneratedCodeSkyShooter_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x6FB97BBA,
-				0x68009CAB,
+				0xB0FC3F45,
+				0x555CE02E,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_SkyShooter.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_SkyShooter.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_SkyShooter(Z_Construct_UPackage__Script_SkyShooter, TEXT("/Script/SkyShooter"), Z_Registration_Info_UPackage__Script_SkyShooter, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x6FB97BBA, 0x68009CAB));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_SkyShooter(Z_Construct_UPackage__Script_SkyShooter, TEXT("/Script/SkyShooter"), Z_Registration_Info_UPackage__Script_SkyShooter, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB0FC3F45, 0x555CE02E));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
