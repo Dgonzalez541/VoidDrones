@@ -8,5 +8,8 @@
 /NODEFAULTLIB
 "C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Module.SkyShooter.cpp.obj"
+"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\WallRunComponent.cpp.obj"
+"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\SkyShooter.init.gen.cpp.obj"
+"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\WallRunComponent.gen.cpp.obj"
 "C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Default.rc2.res"
 /OUT:"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\UnrealEditor-SkyShooter.lib"

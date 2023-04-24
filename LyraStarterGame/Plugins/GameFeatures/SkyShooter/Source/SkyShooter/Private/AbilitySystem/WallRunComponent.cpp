@@ -20,20 +20,18 @@ void UWallRunComponent::BindInput_Implementation(UInputComponent* InputComp)
 	"Jump",
 	IE_Pressed,
 	this,
-	&UWallRunComponent::OnJump
+	&UWallRunComponent::OnWallRunJump
 	);
 	
-}
+} 
 
 
-void UWallRunComponent::WallRunJump_Implementation()
+void UWallRunComponent::OnWallRunJump()
 {
+	OnWallJumpDelegate.Broadcast();
 }
 
-void UWallRunComponent::OnJump()
-{
-}
-
+ 
 // Called when the game starts
 void UWallRunComponent::BeginPlay()
 {

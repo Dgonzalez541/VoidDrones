@@ -11,6 +11,7 @@ void EmptyLinkFunctionForGeneratedCodeSkyShooter_init() {}
 	SKYSHOOTER_API UFunction* Z_Construct_UDelegateFunction_SkyShooter_Mana_AttributeChanged__DelegateSignature();
 	SKYSHOOTER_API UFunction* Z_Construct_UDelegateFunction_SkyShooter_OnBindInputSignature__DelegateSignature();
 	SKYSHOOTER_API UFunction* Z_Construct_UDelegateFunction_SkyShooter_OnTickTaskDelegate__DelegateSignature();
+	SKYSHOOTER_API UFunction* Z_Construct_UDelegateFunction_SkyShooter_OnWallJumpSignature__DelegateSignature();
 	SKYSHOOTER_API UFunction* Z_Construct_UDelegateFunction_SkyShooter_PawnsOverlappedChangedEvent__DelegateSignature();
 	static FPackageRegistrationInfo Z_Registration_Info_UPackage__Script_SkyShooter;
 	FORCENOINLINE UPackage* Z_Construct_UPackage__Script_SkyShooter()
@@ -22,6 +23,7 @@ void EmptyLinkFunctionForGeneratedCodeSkyShooter_init() {}
 				(UObject* (*)())Z_Construct_UDelegateFunction_SkyShooter_Mana_AttributeChanged__DelegateSignature,
 				(UObject* (*)())Z_Construct_UDelegateFunction_SkyShooter_OnBindInputSignature__DelegateSignature,
 				(UObject* (*)())Z_Construct_UDelegateFunction_SkyShooter_OnTickTaskDelegate__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_SkyShooter_OnWallJumpSignature__DelegateSignature,
 				(UObject* (*)())Z_Construct_UDelegateFunction_SkyShooter_PawnsOverlappedChangedEvent__DelegateSignature,
 			};
 			static const UECodeGen_Private::FPackageParams PackageParams = {
@@ -29,13 +31,13 @@ void EmptyLinkFunctionForGeneratedCodeSkyShooter_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xB0FC3F45,
-				0x555CE02E,
+				0xA2AB1ABF,
+				0xC0C11405,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_SkyShooter.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_SkyShooter.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_SkyShooter(Z_Construct_UPackage__Script_SkyShooter, TEXT("/Script/SkyShooter"), Z_Registration_Info_UPackage__Script_SkyShooter, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB0FC3F45, 0x555CE02E));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_SkyShooter(Z_Construct_UPackage__Script_SkyShooter, TEXT("/Script/SkyShooter"), Z_Registration_Info_UPackage__Script_SkyShooter, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xA2AB1ABF, 0xC0C11405));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -13,14 +13,30 @@ void EmptyLinkFunctionForGeneratedCodeWallRunComponent() {}
 	ENGINE_API UClass* Z_Construct_UClass_UInputComponent_NoRegister();
 	SKYSHOOTER_API UClass* Z_Construct_UClass_UWallRunComponent();
 	SKYSHOOTER_API UClass* Z_Construct_UClass_UWallRunComponent_NoRegister();
+	SKYSHOOTER_API UFunction* Z_Construct_UDelegateFunction_SkyShooter_OnWallJumpSignature__DelegateSignature();
 	UPackage* Z_Construct_UPackage__Script_SkyShooter();
 // End Cross Module References
-	DEFINE_FUNCTION(UWallRunComponent::execWallRunJump)
+	struct Z_Construct_UDelegateFunction_SkyShooter_OnWallJumpSignature__DelegateSignature_Statics
 	{
-		P_FINISH;
-		P_NATIVE_BEGIN;
-		P_THIS->WallRunJump_Implementation();
-		P_NATIVE_END;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UECodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UDelegateFunction_SkyShooter_OnWallJumpSignature__DelegateSignature_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Public/AbilitySystem/WallRunComponent.h" },
+	};
+#endif
+	const UECodeGen_Private::FFunctionParams Z_Construct_UDelegateFunction_SkyShooter_OnWallJumpSignature__DelegateSignature_Statics::FuncParams = { (UObject*(*)())Z_Construct_UPackage__Script_SkyShooter, nullptr, "OnWallJumpSignature__DelegateSignature", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00130000, 0, 0, METADATA_PARAMS(Z_Construct_UDelegateFunction_SkyShooter_OnWallJumpSignature__DelegateSignature_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UDelegateFunction_SkyShooter_OnWallJumpSignature__DelegateSignature_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UDelegateFunction_SkyShooter_OnWallJumpSignature__DelegateSignature()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UDelegateFunction_SkyShooter_OnWallJumpSignature__DelegateSignature_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	DEFINE_FUNCTION(UWallRunComponent::execBindInput)
 	{
@@ -41,17 +57,11 @@ void EmptyLinkFunctionForGeneratedCodeWallRunComponent() {}
 		Parms.InputComp=InputComp;
 		ProcessEvent(FindFunctionChecked(NAME_UWallRunComponent_BindInput),&Parms);
 	}
-	static FName NAME_UWallRunComponent_WallRunJump = FName(TEXT("WallRunJump"));
-	void UWallRunComponent::WallRunJump()
-	{
-		ProcessEvent(FindFunctionChecked(NAME_UWallRunComponent_WallRunJump),NULL);
-	}
 	void UWallRunComponent::StaticRegisterNativesUWallRunComponent()
 	{
 		UClass* Class = UWallRunComponent::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "BindInput", &UWallRunComponent::execBindInput },
-			{ "WallRunJump", &UWallRunComponent::execWallRunJump },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 	}
@@ -93,30 +103,6 @@ void EmptyLinkFunctionForGeneratedCodeWallRunComponent() {}
 		}
 		return ReturnFunction;
 	}
-	struct Z_Construct_UFunction_UWallRunComponent_WallRunJump_Statics
-	{
-#if WITH_METADATA
-		static const UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
-#endif
-		static const UECodeGen_Private::FFunctionParams FuncParams;
-	};
-#if WITH_METADATA
-	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UWallRunComponent_WallRunJump_Statics::Function_MetaDataParams[] = {
-		{ "Category", "WallRun Jump" },
-		{ "ForceAsFunction", "" },
-		{ "ModuleRelativePath", "Public/AbilitySystem/WallRunComponent.h" },
-	};
-#endif
-	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UWallRunComponent_WallRunJump_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UWallRunComponent, nullptr, "WallRunJump", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x0C020C00, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UWallRunComponent_WallRunJump_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UWallRunComponent_WallRunJump_Statics::Function_MetaDataParams)) };
-	UFunction* Z_Construct_UFunction_UWallRunComponent_WallRunJump()
-	{
-		static UFunction* ReturnFunction = nullptr;
-		if (!ReturnFunction)
-		{
-			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_UWallRunComponent_WallRunJump_Statics::FuncParams);
-		}
-		return ReturnFunction;
-	}
 	IMPLEMENT_CLASS_NO_AUTO_REGISTRATION(UWallRunComponent);
 	UClass* Z_Construct_UClass_UWallRunComponent_NoRegister()
 	{
@@ -129,6 +115,11 @@ void EmptyLinkFunctionForGeneratedCodeWallRunComponent() {}
 #if WITH_METADATA
 		static const UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_OnWallJumpDelegate_MetaData[];
+#endif
+		static const UECodeGen_Private::FMulticastDelegatePropertyParams NewProp_OnWallJumpDelegate;
+		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
 	};
@@ -138,7 +129,6 @@ void EmptyLinkFunctionForGeneratedCodeWallRunComponent() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_UWallRunComponent_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_UWallRunComponent_BindInput, "BindInput" }, // 1920705741
-		{ &Z_Construct_UFunction_UWallRunComponent_WallRunJump, "WallRunJump" }, // 408015404
 	};
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UWallRunComponent_Statics::Class_MetaDataParams[] = {
@@ -150,6 +140,17 @@ void EmptyLinkFunctionForGeneratedCodeWallRunComponent() {}
 		{ "ModuleRelativePath", "Public/AbilitySystem/WallRunComponent.h" },
 	};
 #endif
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UWallRunComponent_Statics::NewProp_OnWallJumpDelegate_MetaData[] = {
+		{ "Category", "WallRun Jump" },
+		{ "ForceAsFunction", "" },
+		{ "ModuleRelativePath", "Public/AbilitySystem/WallRunComponent.h" },
+	};
+#endif
+	const UECodeGen_Private::FMulticastDelegatePropertyParams Z_Construct_UClass_UWallRunComponent_Statics::NewProp_OnWallJumpDelegate = { "OnWallJumpDelegate", nullptr, (EPropertyFlags)0x0010100010080000, UECodeGen_Private::EPropertyGenFlags::InlineMulticastDelegate, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(UWallRunComponent, OnWallJumpDelegate), Z_Construct_UDelegateFunction_SkyShooter_OnWallJumpSignature__DelegateSignature, METADATA_PARAMS(Z_Construct_UClass_UWallRunComponent_Statics::NewProp_OnWallJumpDelegate_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UWallRunComponent_Statics::NewProp_OnWallJumpDelegate_MetaData)) }; // 357054282
+	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UWallRunComponent_Statics::PropPointers[] = {
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UWallRunComponent_Statics::NewProp_OnWallJumpDelegate,
+	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UWallRunComponent_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<UWallRunComponent>::IsAbstract,
 	};
@@ -159,11 +160,11 @@ void EmptyLinkFunctionForGeneratedCodeWallRunComponent() {}
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		FuncInfo,
-		nullptr,
+		Z_Construct_UClass_UWallRunComponent_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
 		UE_ARRAY_COUNT(FuncInfo),
-		0,
+		UE_ARRAY_COUNT(Z_Construct_UClass_UWallRunComponent_Statics::PropPointers),
 		0,
 		0x00B000A4u,
 		METADATA_PARAMS(Z_Construct_UClass_UWallRunComponent_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_UWallRunComponent_Statics::Class_MetaDataParams))
@@ -187,9 +188,9 @@ void EmptyLinkFunctionForGeneratedCodeWallRunComponent() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProjects_test_SkyShooter_LyraStarterGame_Plugins_GameFeatures_SkyShooter_Source_SkyShooter_Public_AbilitySystem_WallRunComponent_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UWallRunComponent, UWallRunComponent::StaticClass, TEXT("UWallRunComponent"), &Z_Registration_Info_UClass_UWallRunComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UWallRunComponent), 3083146928U) },
+		{ Z_Construct_UClass_UWallRunComponent, UWallRunComponent::StaticClass, TEXT("UWallRunComponent"), &Z_Registration_Info_UClass_UWallRunComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UWallRunComponent), 3975090412U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProjects_test_SkyShooter_LyraStarterGame_Plugins_GameFeatures_SkyShooter_Source_SkyShooter_Public_AbilitySystem_WallRunComponent_h_3590117439(TEXT("/Script/SkyShooter"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProjects_test_SkyShooter_LyraStarterGame_Plugins_GameFeatures_SkyShooter_Source_SkyShooter_Public_AbilitySystem_WallRunComponent_h_892604633(TEXT("/Script/SkyShooter"),
 		Z_CompiledInDeferFile_FID_UnrealProjects_test_SkyShooter_LyraStarterGame_Plugins_GameFeatures_SkyShooter_Source_SkyShooter_Public_AbilitySystem_WallRunComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealProjects_test_SkyShooter_LyraStarterGame_Plugins_GameFeatures_SkyShooter_Source_SkyShooter_Public_AbilitySystem_WallRunComponent_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

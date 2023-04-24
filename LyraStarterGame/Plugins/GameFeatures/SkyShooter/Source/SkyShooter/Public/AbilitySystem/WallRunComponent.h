@@ -6,23 +6,23 @@
 #include "Components/ActorComponent.h"
 #include "WallRunComponent.generated.h"
 
-
+DECLARE_DYNAMIC_MULTICAST_DELEGATE(FOnWallJumpSignature);
 UCLASS( Blueprintable, ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class SKYSHOOTER_API UWallRunComponent : public UActorComponent
 {
 	GENERATED_BODY()
 
-public:	
+public:
+
+	UPROPERTY(BlueprintAssignable,BlueprintCallable, Category="WallRun Jump", Meta = (ForceAsFunction))
+	FOnWallJumpSignature OnWallJumpDelegate;
 	// Sets default values for this component's properties
 	UWallRunComponent();
 
 	UFUNCTION(BlueprintNativeEvent,BlueprintCallable, Category="WallRun Jump", Meta = (ForceAsFunction))
 	void BindInput(UInputComponent* InputComp);
 
-	UFUNCTION(BlueprintNativeEvent,BlueprintCallable, Category="WallRun Jump", Meta = (ForceAsFunction))
-	void WallRunJump();
-	void OnJump();
-
+	void OnWallRunJump();
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;

@@ -15,20 +15,23 @@ class UInputComponent;
 #endif
 #define SKYSHOOTER_WallRunComponent_generated_h
 
+#define FID_UnrealProjects_test_SkyShooter_LyraStarterGame_Plugins_GameFeatures_SkyShooter_Source_SkyShooter_Public_AbilitySystem_WallRunComponent_h_9_DELEGATE \
+static inline void FOnWallJumpSignature_DelegateWrapper(const FMulticastScriptDelegate& OnWallJumpSignature) \
+{ \
+	OnWallJumpSignature.ProcessMulticastDelegate<UObject>(NULL); \
+}
+
+
 #define FID_UnrealProjects_test_SkyShooter_LyraStarterGame_Plugins_GameFeatures_SkyShooter_Source_SkyShooter_Public_AbilitySystem_WallRunComponent_h_13_SPARSE_DATA
 #define FID_UnrealProjects_test_SkyShooter_LyraStarterGame_Plugins_GameFeatures_SkyShooter_Source_SkyShooter_Public_AbilitySystem_WallRunComponent_h_13_RPC_WRAPPERS \
-	virtual void WallRunJump_Implementation(); \
 	virtual void BindInput_Implementation(UInputComponent* InputComp); \
  \
-	DECLARE_FUNCTION(execWallRunJump); \
 	DECLARE_FUNCTION(execBindInput);
 
 
 #define FID_UnrealProjects_test_SkyShooter_LyraStarterGame_Plugins_GameFeatures_SkyShooter_Source_SkyShooter_Public_AbilitySystem_WallRunComponent_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	virtual void WallRunJump_Implementation(); \
 	virtual void BindInput_Implementation(UInputComponent* InputComp); \
  \
-	DECLARE_FUNCTION(execWallRunJump); \
 	DECLARE_FUNCTION(execBindInput);
 
 
