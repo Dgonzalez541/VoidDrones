@@ -24,16 +24,17 @@ ULyraGameplayAbility_Jump::ULyraGameplayAbility_Jump(const FObjectInitializer& O
 
 bool ULyraGameplayAbility_Jump::CanActivateAbility(const FGameplayAbilitySpecHandle Handle, const FGameplayAbilityActorInfo* ActorInfo, const FGameplayTagContainer* SourceTags, const FGameplayTagContainer* TargetTags, FGameplayTagContainer* OptionalRelevantTags) const
 {
-	if (!ActorInfo || !ActorInfo->AvatarActor.IsValid())
+  	if (!ActorInfo || !ActorInfo->AvatarActor.IsValid())
 	{
-		return false;
+ 		return false;
 	}
 
-	const ALyraCharacter* LyraCharacter = Cast<ALyraCharacter>(ActorInfo->AvatarActor.Get());
+
+ 	/*const ALyraCharacter* LyraCharacter = Cast<ALyraCharacter>(ActorInfo->AvatarActor.Get());
 	if (!LyraCharacter || !LyraCharacter->CanJump())
 	{
 		return false;
-	}
+	}*/
 
 	if (!Super::CanActivateAbility(Handle, ActorInfo, SourceTags, TargetTags, OptionalRelevantTags))
 	{
