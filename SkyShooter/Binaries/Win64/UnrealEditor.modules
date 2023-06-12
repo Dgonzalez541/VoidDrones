@@ -1,0 +1,8 @@
+{
+	"BuildId": "23058290",
+	"Modules": 
+	{
+		"SkyShooterEditor": "UnrealEditor-SkyShooterEditor.dll",
+		"SkyShooterGame": "UnrealEditor-SkyShooterGame.dll"
+	}
+}

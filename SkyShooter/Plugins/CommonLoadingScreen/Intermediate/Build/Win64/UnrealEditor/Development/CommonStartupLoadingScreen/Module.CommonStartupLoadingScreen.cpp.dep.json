@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\development\\commonstartuploadingscreen\\module.commonstartuploadingscreen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\intermediate\\build\\win64\\skyshootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\development\\commonstartuploadingscreen\\definitions.commonstartuploadingscreen.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\commonpreloadscreen.cpp",
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\commonpreloadscreen.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\preloadscreen\\public\\preloadscreen.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\analytics\\analyticset\\public\\ianalyticsprovideret.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\analytics\\analyticset\\public\\analyticset.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\analytics\\analytics\\public\\analyticsproviderconfigurationdelegate.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\analytics\\analytics\\public\\interfaces\\ianalyticsprovidermodule.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\analytics\\analytics\\public\\interfaces\\ianalyticsprovider.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\preloadscreen\\public\\preloadscreenbase.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\scommonpreloadingscreenwidget.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\commonstartuploadingscreen.cpp",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\preloadscreen\\public\\preloadscreenmanager.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\slate\\public\\widgets\\svirtualwindow.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\preloadscreen\\public\\preloadslatethreading.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\applicationcore\\public\\hal\\platformapplicationmisc.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\applicationcore\\public\\windows\\windowsplatformapplicationmisc.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\applicationcore\\public\\genericplatform\\genericplatformapplicationmisc.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\scommonpreloadingscreenwidget.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

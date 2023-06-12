@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AsyncMixin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\Development\AsyncMixin\Module.AsyncMixin.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\Development\AsyncMixin\Default.rc2.res"
+/OUT:"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\Development\AsyncMixin\UnrealEditor-AsyncMixin.lib"

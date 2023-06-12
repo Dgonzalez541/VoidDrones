@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\source\\skyshootereditor\\private\\assettypeactions_lyracontexteffectslibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\intermediate\\build\\win64\\skyshootereditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\intermediate\\build\\win64\\unrealeditor\\development\\skyshootereditor\\definitions.skyshootereditor.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\source\\skyshootereditor\\private\\assettypeactions_lyracontexteffectslibrary.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\developer\\assettools\\public\\assettypeactions_base.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\developer\\assettools\\public\\iassettools.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\developer\\assettools\\public\\assettypecategories.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\developer\\assettools\\public\\iassettypeactions.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\developer\\merge\\public\\merge.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailmanager.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailrenderer.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailrenderer.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailmanager.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assettools\\uht\\iassettypeactions.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\unrealed\\public\\automatedassetimportdata.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\automatedassetimportdata.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assettools\\uht\\iassettools.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\developer\\assettools\\public\\assettoolsmodule.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\editor\\unrealed\\public\\toolkits\\simpleasseteditor.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\source\\skyshootergame\\feedback\\contexteffects\\lyracontexteffectslibrary.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\skyshootergame\\uht\\lyracontexteffectslibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
