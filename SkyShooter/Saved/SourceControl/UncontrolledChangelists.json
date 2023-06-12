@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiences/B_SkyShooterGame_ControlPoints.uasset",
+				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiances/B_SkyShooterGame_ControlPoints.uasset",
+				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiences/SkyShooter_UserFacingExperienceDef.uasset",
+				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiences/LAS_SkyShooter_StandardHUD.uasset",
+				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiances/LAS_SkyShooter_StandardHUD.uasset",
+				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiences/B_SkyShooterGame_Elimination.uasset",
+				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiances/B_SkyShooterGame_Elimination.uasset",
+				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiances/SkyShooter_UserFacingExperienceDef.uasset"
+			]
+		}
+	]
+}

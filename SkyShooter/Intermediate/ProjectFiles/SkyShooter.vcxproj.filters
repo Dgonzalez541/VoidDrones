@@ -2838,12 +2838,6 @@
     <None Include="..\..\Source\SkyShooterEditor\.idea\.idea.SkyShooterEditor.dir\.idea\indexLayout.xml">
       <Filter>Source\SkyShooterEditor\.idea\.idea.SkyShooterEditor.dir\.idea</Filter>
     </None>
-    <None Include="..\..\Source\SkyShooterEditor\.idea\.idea.SkyShooterEditor.dir\.idea\projectSettingsUpdater.xml">
-      <Filter>Source\SkyShooterEditor\.idea\.idea.SkyShooterEditor.dir\.idea</Filter>
-    </None>
-    <None Include="..\..\Source\SkyShooterEditor\.idea\.idea.SkyShooterEditor.dir\.idea\workspace.xml">
-      <Filter>Source\SkyShooterEditor\.idea\.idea.SkyShooterEditor.dir\.idea</Filter>
-    </None>
     <Filter Include="Source\SkyShooterEditor\Commandlets">
       <UniqueIdentifier>{64D33E17-2001-38E4-A546-84585F7AEEDD}</UniqueIdentifier>
     </Filter>
@@ -2965,12 +2959,6 @@
       <Filter>Source\SkyShooterGame\.idea\.idea.SkyShooterGame.dir\.idea</Filter>
     </None>
     <None Include="..\..\Source\SkyShooterGame\.idea\.idea.SkyShooterGame.dir\.idea\indexLayout.xml">
-      <Filter>Source\SkyShooterGame\.idea\.idea.SkyShooterGame.dir\.idea</Filter>
-    </None>
-    <None Include="..\..\Source\SkyShooterGame\.idea\.idea.SkyShooterGame.dir\.idea\projectSettingsUpdater.xml">
-      <Filter>Source\SkyShooterGame\.idea\.idea.SkyShooterGame.dir\.idea</Filter>
-    </None>
-    <None Include="..\..\Source\SkyShooterGame\.idea\.idea.SkyShooterGame.dir\.idea\workspace.xml">
       <Filter>Source\SkyShooterGame\.idea\.idea.SkyShooterGame.dir\.idea</Filter>
     </None>
     <Filter Include="Source\SkyShooterGame\AbilitySystem">
