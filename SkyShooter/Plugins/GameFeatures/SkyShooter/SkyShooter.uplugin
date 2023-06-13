@@ -16,7 +16,7 @@
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"ExplicitlyLoaded": true,
-	"BuiltInInitialFeatureState": "Active",
+	"BuiltInInitialFeatureState": "Registered",
 	"Plugins": [
 		{
 			"Name": "ShooterCore",
@@ -56,6 +56,18 @@
 		},
 		{
 			"Name": "LyraExampleContent",
+			"Enabled": true
+		},
+		{
+			"Name": "ShooterMaps",
+			"Enabled": true
+		},
+		{
+			"Name": "ShooterExplorer",
+			"Enabled": true
+		},
+		{
+			"Name": "ShooterTests",
 			"Enabled": true
 		}
 	],

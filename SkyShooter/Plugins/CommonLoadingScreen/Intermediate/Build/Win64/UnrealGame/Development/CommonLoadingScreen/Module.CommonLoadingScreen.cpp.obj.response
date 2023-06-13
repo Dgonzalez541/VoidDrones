@@ -1,6 +1,6 @@
-D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealGame\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp
+C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealGame\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp
 /I .
-/I D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Private
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Private
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\CoreUObject\UHT
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -121,9 +121,9 @@ D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Inte
 /I Runtime\Experimental\Animation\Constraints\Public
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\PropertyPath\UHT
 /I Runtime\PropertyPath\Public
-/I D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealGame\Inc\CommonLoadingScreen\UHT
-/I D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Source
-/I D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealGame\Inc\CommonLoadingScreen\UHT
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Source
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -133,12 +133,12 @@ D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Inte
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealGame\Development\CommonLoadingScreen\Definitions.CommonLoadingScreen.h"
-/Yu"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealGame\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp.obj"
-/sourceDependencies D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealGame\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp.dep.json
+/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealGame\Development\CommonLoadingScreen\Definitions.CommonLoadingScreen.h"
+/Yu"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterGame\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealGame\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp.obj"
+/sourceDependencies C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealGame\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

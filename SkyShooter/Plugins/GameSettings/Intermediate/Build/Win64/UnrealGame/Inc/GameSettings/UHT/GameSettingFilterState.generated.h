@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define GAMESETTINGS_GameSettingFilterState_generated_h
 
-#define FID_Unreal_SkyShooter_SkyShooter_LyraStarterGame_Plugins_GameSettings_Source_Public_GameSettingFilterState_h_30_GENERATED_BODY \
+#define FID_UnrealProjects_SkyShooter_SkyShooter_SkyShooter_Plugins_GameSettings_Source_Public_GameSettingFilterState_h_30_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FGameSettingFilterState_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> GAMESETTINGS_API UScriptStruct* StaticStruct<struct FGameSettingFilterState>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Unreal_SkyShooter_SkyShooter_LyraStarterGame_Plugins_GameSettings_Source_Public_GameSettingFilterState_h
+#define CURRENT_FILE_ID FID_UnrealProjects_SkyShooter_SkyShooter_SkyShooter_Plugins_GameSettings_Source_Public_GameSettingFilterState_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

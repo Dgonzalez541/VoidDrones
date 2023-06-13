@@ -6,18 +6,18 @@
 
 #include "UObject/GeneratedCppIncludes.h"
 #include "ShooterCoreRuntime/Public/LyraWorldCollectable.h"
-#include "LyraGame/Interaction/InteractionOption.h"
-#include "LyraGame/Inventory/IPickupable.h"
+#include "SkyShooterGame/Interaction/InteractionOption.h"
+#include "SkyShooterGame/Inventory/IPickupable.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeLyraWorldCollectable() {}
 // Cross Module References
 	ENGINE_API UClass* Z_Construct_UClass_AActor();
-	LYRAGAME_API UClass* Z_Construct_UClass_UInteractableTarget_NoRegister();
-	LYRAGAME_API UClass* Z_Construct_UClass_UPickupable_NoRegister();
-	LYRAGAME_API UScriptStruct* Z_Construct_UScriptStruct_FInteractionOption();
-	LYRAGAME_API UScriptStruct* Z_Construct_UScriptStruct_FInventoryPickup();
 	SHOOTERCORERUNTIME_API UClass* Z_Construct_UClass_ALyraWorldCollectable();
 	SHOOTERCORERUNTIME_API UClass* Z_Construct_UClass_ALyraWorldCollectable_NoRegister();
+	SKYSHOOTERGAME_API UClass* Z_Construct_UClass_UInteractableTarget_NoRegister();
+	SKYSHOOTERGAME_API UClass* Z_Construct_UClass_UPickupable_NoRegister();
+	SKYSHOOTERGAME_API UScriptStruct* Z_Construct_UScriptStruct_FInteractionOption();
+	SKYSHOOTERGAME_API UScriptStruct* Z_Construct_UScriptStruct_FInventoryPickup();
 	UPackage* Z_Construct_UPackage__Script_ShooterCoreRuntime();
 // End Cross Module References
 	void ALyraWorldCollectable::StaticRegisterNativesALyraWorldCollectable()
@@ -66,21 +66,21 @@ void EmptyLinkFunctionForGeneratedCodeLyraWorldCollectable() {}
 		{ "ModuleRelativePath", "Public/LyraWorldCollectable.h" },
 	};
 #endif
-	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_Option = { "Option", nullptr, (EPropertyFlags)0x0020088000000001, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(ALyraWorldCollectable, Option), Z_Construct_UScriptStruct_FInteractionOption, METADATA_PARAMS(Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_Option_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_Option_MetaData)) }; // 3431688996
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_Option = { "Option", nullptr, (EPropertyFlags)0x0020088000000001, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(ALyraWorldCollectable, Option), Z_Construct_UScriptStruct_FInteractionOption, METADATA_PARAMS(Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_Option_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_Option_MetaData)) }; // 3385769534
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_StaticInventory_MetaData[] = {
 		{ "Category", "LyraWorldCollectable" },
 		{ "ModuleRelativePath", "Public/LyraWorldCollectable.h" },
 	};
 #endif
-	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_StaticInventory = { "StaticInventory", nullptr, (EPropertyFlags)0x0020080000000001, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(ALyraWorldCollectable, StaticInventory), Z_Construct_UScriptStruct_FInventoryPickup, METADATA_PARAMS(Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_StaticInventory_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_StaticInventory_MetaData)) }; // 2488838795
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_StaticInventory = { "StaticInventory", nullptr, (EPropertyFlags)0x0020080000000001, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(ALyraWorldCollectable, StaticInventory), Z_Construct_UScriptStruct_FInventoryPickup, METADATA_PARAMS(Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_StaticInventory_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_StaticInventory_MetaData)) }; // 3144046641
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ALyraWorldCollectable_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_Option,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALyraWorldCollectable_Statics::NewProp_StaticInventory,
 	};
 		const UECodeGen_Private::FImplementedInterfaceParams Z_Construct_UClass_ALyraWorldCollectable_Statics::InterfaceParams[] = {
-			{ Z_Construct_UClass_UInteractableTarget_NoRegister, (int32)VTABLE_OFFSET(ALyraWorldCollectable, IInteractableTarget), false },  // 2201191718
-			{ Z_Construct_UClass_UPickupable_NoRegister, (int32)VTABLE_OFFSET(ALyraWorldCollectable, IPickupable), false },  // 3181764864
+			{ Z_Construct_UClass_UInteractableTarget_NoRegister, (int32)VTABLE_OFFSET(ALyraWorldCollectable, IInteractableTarget), false },  // 1196554399
+			{ Z_Construct_UClass_UPickupable_NoRegister, (int32)VTABLE_OFFSET(ALyraWorldCollectable, IPickupable), false },  // 1933251300
 		};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ALyraWorldCollectable_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ALyraWorldCollectable>::IsAbstract,
@@ -114,15 +114,15 @@ void EmptyLinkFunctionForGeneratedCodeLyraWorldCollectable() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ALyraWorldCollectable);
 	ALyraWorldCollectable::~ALyraWorldCollectable() {}
-	struct Z_CompiledInDeferFile_FID_Unreal_SkyShooter_SkyShooter_LyraStarterGame_Plugins_GameFeatures_ShooterCore_Source_ShooterCoreRuntime_Public_LyraWorldCollectable_h_Statics
+	struct Z_CompiledInDeferFile_FID_UnrealProjects_SkyShooter_SkyShooter_SkyShooter_Plugins_GameFeatures_ShooterCore_Source_ShooterCoreRuntime_Public_LyraWorldCollectable_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_SkyShooter_SkyShooter_LyraStarterGame_Plugins_GameFeatures_ShooterCore_Source_ShooterCoreRuntime_Public_LyraWorldCollectable_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_ALyraWorldCollectable, ALyraWorldCollectable::StaticClass, TEXT("ALyraWorldCollectable"), &Z_Registration_Info_UClass_ALyraWorldCollectable, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ALyraWorldCollectable), 2021229000U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProjects_SkyShooter_SkyShooter_SkyShooter_Plugins_GameFeatures_ShooterCore_Source_ShooterCoreRuntime_Public_LyraWorldCollectable_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_ALyraWorldCollectable, ALyraWorldCollectable::StaticClass, TEXT("ALyraWorldCollectable"), &Z_Registration_Info_UClass_ALyraWorldCollectable, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ALyraWorldCollectable), 2364934283U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_SkyShooter_SkyShooter_LyraStarterGame_Plugins_GameFeatures_ShooterCore_Source_ShooterCoreRuntime_Public_LyraWorldCollectable_h_1569273880(TEXT("/Script/ShooterCoreRuntime"),
-		Z_CompiledInDeferFile_FID_Unreal_SkyShooter_SkyShooter_LyraStarterGame_Plugins_GameFeatures_ShooterCore_Source_ShooterCoreRuntime_Public_LyraWorldCollectable_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_SkyShooter_SkyShooter_LyraStarterGame_Plugins_GameFeatures_ShooterCore_Source_ShooterCoreRuntime_Public_LyraWorldCollectable_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProjects_SkyShooter_SkyShooter_SkyShooter_Plugins_GameFeatures_ShooterCore_Source_ShooterCoreRuntime_Public_LyraWorldCollectable_h_115010979(TEXT("/Script/ShooterCoreRuntime"),
+		Z_CompiledInDeferFile_FID_UnrealProjects_SkyShooter_SkyShooter_SkyShooter_Plugins_GameFeatures_ShooterCore_Source_ShooterCoreRuntime_Public_LyraWorldCollectable_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealProjects_SkyShooter_SkyShooter_SkyShooter_Plugins_GameFeatures_ShooterCore_Source_ShooterCoreRuntime_Public_LyraWorldCollectable_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

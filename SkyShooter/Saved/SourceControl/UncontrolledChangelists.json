@@ -5,17 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Game/Abilities/GrappleHook/GrappleHookPro/GrappleHookProDemo1.umap",
-				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Content/ClimbingComponent/Maps/ShowcaseMap.umap",
-				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Maps/L_HourGlass.umap",
-				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Maps/L_FiringRange_WP.umap",
-				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Maps/L_Debug.umap",
-				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiances/B_SkyShooterGame_ControlPoints.uasset",
-				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiances/B_SkyShooterGame_Elimination.uasset",
-				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiances/LAS_SkyShooter_StandardHUD.uasset",
+				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiences/SkyShooter_UserFacingExperienceDef.uasset",
 				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/SkyShooter.uasset",
-				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/ShooterCore/Content/ShooterCore.uasset",
-				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiences/SkyShooter_UserFacingExperienceDef.uasset"
+				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiences/test_controlpoints.uasset"
 			]
 		}
 	]
