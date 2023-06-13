@@ -42,7 +42,6 @@
 *.VC.opendb
 *.log
 *.vcxproj
-*.uexp
 
 # Precompiled Assets
 /LyraStarterGame/SourceArt/**/*.png
