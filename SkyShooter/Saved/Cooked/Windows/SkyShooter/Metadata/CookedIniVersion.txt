@@ -4,11 +4,10 @@ Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(Prim
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="LyraGameData",AssetBaseClass="/Script/SkyShooterGame.LyraGameData",bHasBlueprintClasses=False,bIsEditorOnly=False,Directories=,SpecificAssets=("/Game/DefaultGameData.DefaultGameData"),Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:2=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass="/Script/Engine.PrimaryAssetLabel",bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:3=(PrimaryAssetType="GameFeatureData",AssetBaseClass="/Script/GameFeatures.GameFeatureData",bHasBlueprintClasses=False,bIsEditorOnly=False,Directories=((Path="/Game/Unused")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
-Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:4=(PrimaryAssetType="LyraExperienceDefinition",AssetBaseClass="/Script/SkyShooterGame.LyraExperienceDefinition",bHasBlueprintClasses=True,bIsEditorOnly=False,Directories=((Path="/Game/System/Experiences"),(Path="/SkyShooter")),SpecificAssets=("/Game/System/FrontEnd/B_LyraFrontEnd_Experience.B_LyraFrontEnd_Experience"),Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
+Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:4=(PrimaryAssetType="LyraExperienceDefinition",AssetBaseClass="/Script/SkyShooterGame.LyraExperienceDefinition",bHasBlueprintClasses=True,bIsEditorOnly=False,Directories=((Path="/Game/System/Experiences")),SpecificAssets=("/Game/System/FrontEnd/B_LyraFrontEnd_Experience.B_LyraFrontEnd_Experience"),Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:5=(PrimaryAssetType="LyraUserFacingExperienceDefinition",AssetBaseClass="/Script/SkyShooterGame.LyraUserFacingExperienceDefinition",bHasBlueprintClasses=False,bIsEditorOnly=False,Directories=((Path="/Game/UI/Temp"),(Path="/Game/System/Playlists")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:6=(PrimaryAssetType="LyraLobbyBackground",AssetBaseClass="/Script/SkyShooterGame.LyraLobbyBackground",bHasBlueprintClasses=False,bIsEditorOnly=False,Directories=,SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:7=(PrimaryAssetType="LyraExperienceActionSet",AssetBaseClass="/Script/SkyShooterGame.LyraExperienceActionSet",bHasBlueprintClasses=False,bIsEditorOnly=False,Directories=,SpecificAssets=("/SkyShooter/Experiences/LAS_SkyShooter_StandardHUD.LAS_SkyShooter_StandardHUD"),Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
-Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:8=(PrimaryAssetType="",AssetBaseClass="/Script/CoreUObject.Object",bHasBlueprintClasses=False,bIsEditorOnly=False,Directories=,SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 Windows.Engine:AssetRegistry:CookedTagsBlacklist:0=(Class=/Script/Engine.Blueprint,Tag=FiB)
 Windows.Engine:AssetRegistry:CookedTagsBlacklist:1=(Class=/Script/Engine.Blueprint,Tag=FiBData)
 Windows.Engine:AssetRegistry:CookedTagsBlacklist:2=(Class=*,Tag=AssetImportData)
@@ -168,13 +167,14 @@ Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:bShowGridInViewport:0=True
 Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:bShowInstructionsCount:0=False
 Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:bShowParticleCountsInViewport:0=False
 Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:bShowEmitterExecutionOrder:0=False
-ObjectMixerSerializedData:/Script/ObjectMixerEditor.ObjectMixerEditorSerializedData:SerializedDataPerFilter:0=()
 Engine:Core.System:CanStripEditorOnlyExportsAndImports:0=True
 Engine:Core.System:CanSkipEditorReferencedPackagesWhenCooking:0=False
 Engine:Core.System:TestUnversionedPropertySerializationWhenCooking:0=False
 Engine:Core.System:DetailedCallstacksInNonMonolithicBuilds:0=True
 Engine:Core.System:UsePackageTrailer:0=True
 Engine:Core.System:HangDuration:0=0.0
+Engine:Core.System:AssetLogShowsDiskPath:0=True
+Engine:Core.System:AssetLogShowsAbsolutePath:0=True
 Engine:/Script/UdpMessaging.UdpMessagingSettings:EnabledByDefault:0=False
 Engine:/Script/UdpMessaging.UdpMessagingSettings:EnableTransport:0=True
 Engine:/Script/UdpMessaging.UdpMessagingSettings:bAutoRepair:0=True
@@ -669,6 +669,7 @@ Engine:/Script/UnrealEd.CookerSettings:VersionedIntRValues:10=r.Shaders.Optimize
 Engine:/Script/UnrealEd.CookerSettings:VersionedIntRValues:11=r.CompileShadersForDevelopment
 Engine:/Script/UnrealEd.CookerSettings:VersionedIntRValues:12=r.MobileHDR
 Engine:/Script/UnrealEd.CookerSettings:VersionedIntRValues:13=r.UsePreExposure
+Engine:/Script/UnrealEd.CookerSettings:bCookOnTheFlyForLaunchOn:0=True
 Engine:/Script/Engine.PhysicsSettings:DefaultGravityZ:0=-980.0
 Engine:/Script/Engine.PhysicsSettings:bEnable2DPhysics:0=false
 Engine:/Script/Engine.PhysicsSettings:PhysicErrorCorrection:0=(PingExtrapolation=0.100000,PingLimit=100.000000,ErrorPerLinearDifference=1.000000,ErrorPerAngularDifference=1.000000,MaxRestoredStateError=1.000000,MaxLinearHardSnapDistance=400.000000,PositionLerp=0.000000,AngleLerp=0.400000,LinearVelocityCoefficient=100.000000,AngularVelocityCoefficient=10.000000,ErrorAccumulationSeconds=0.500000,ErrorAccumulationDistanceSq=15.000000,ErrorAccumulationSimilarity=100.000000)
@@ -789,8 +790,8 @@ Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:Connecti
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:bUseManualIPAddress:0=False
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:ManualIPAddress:0=
 Engine:/Script/GameplayDebugger.GameplayDebuggerConfig:CategorySlot0:0=NumPadZero
-Game:/Script/UnrealEd.ProjectPackagingSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))
 Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/UnrealProjects/SkyShooter/Builds")
+Game:/Script/UnrealEd.ProjectPackagingSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
 Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
@@ -914,11 +915,10 @@ Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(PrimaryAsset
 Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="LyraGameData",AssetBaseClass="/Script/SkyShooterGame.LyraGameData",bHasBlueprintClasses=False,bIsEditorOnly=False,Directories=,SpecificAssets=("/Game/DefaultGameData.DefaultGameData"),Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
 Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:2=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass="/Script/Engine.PrimaryAssetLabel",bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:3=(PrimaryAssetType="GameFeatureData",AssetBaseClass="/Script/GameFeatures.GameFeatureData",bHasBlueprintClasses=False,bIsEditorOnly=False,Directories=((Path="/Game/Unused")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
-Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:4=(PrimaryAssetType="LyraExperienceDefinition",AssetBaseClass="/Script/SkyShooterGame.LyraExperienceDefinition",bHasBlueprintClasses=True,bIsEditorOnly=False,Directories=((Path="/Game/System/Experiences"),(Path="/SkyShooter")),SpecificAssets=("/Game/System/FrontEnd/B_LyraFrontEnd_Experience.B_LyraFrontEnd_Experience"),Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
+Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:4=(PrimaryAssetType="LyraExperienceDefinition",AssetBaseClass="/Script/SkyShooterGame.LyraExperienceDefinition",bHasBlueprintClasses=True,bIsEditorOnly=False,Directories=((Path="/Game/System/Experiences")),SpecificAssets=("/Game/System/FrontEnd/B_LyraFrontEnd_Experience.B_LyraFrontEnd_Experience"),Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
 Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:5=(PrimaryAssetType="LyraUserFacingExperienceDefinition",AssetBaseClass="/Script/SkyShooterGame.LyraUserFacingExperienceDefinition",bHasBlueprintClasses=False,bIsEditorOnly=False,Directories=((Path="/Game/UI/Temp"),(Path="/Game/System/Playlists")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
 Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:6=(PrimaryAssetType="LyraLobbyBackground",AssetBaseClass="/Script/SkyShooterGame.LyraLobbyBackground",bHasBlueprintClasses=False,bIsEditorOnly=False,Directories=,SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
 Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:7=(PrimaryAssetType="LyraExperienceActionSet",AssetBaseClass="/Script/SkyShooterGame.LyraExperienceActionSet",bHasBlueprintClasses=False,bIsEditorOnly=False,Directories=,SpecificAssets=("/SkyShooter/Experiences/LAS_SkyShooter_StandardHUD.LAS_SkyShooter_StandardHUD"),Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=AlwaysCook))
-Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:8=(PrimaryAssetType="",AssetBaseClass="/Script/CoreUObject.Object",bHasBlueprintClasses=False,bIsEditorOnly=False,Directories=,SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 Game:/Script/Engine.AssetManagerSettings:bOnlyCookProductionAssets:0=False
 Game:/Script/Engine.AssetManagerSettings:bShouldManagerDetermineTypeAndName:0=False
 Game:/Script/Engine.AssetManagerSettings:bShouldGuessTypeAndNameInEditor:0=True
@@ -1540,15 +1540,15 @@ OverlappingVerticeDetectionVer:612FBE52DA53400B910D4F919FB1857C=1
 VisualLogger:A4237A36CAEA41C98FA218F858681BF3=5
 VirtualTextureBuiltDataVersion:804E3F7570884B49A4D68C063C7EB6DC=5
 WorldSettingVer:1ED048F42F2E4C6889D053A4F18F102D=1
+VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=76
 ChaosClothConfigVer:76A52329092345B598AED841CF2F6AD8=5
 ChaosClothSharedConfigVer:5FBC690755C840AE8E67F1845EFFF13F=1
 Water:40D2FBA74B484CE5B0385A75884E499E=7
-VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 ClothConfigNvVer:9950B70EB41A4E17BBCCFA0D57817FD6=1
+AudioSynesthesiaVer:82E77C4E332343A5B46B13C597310DF3=0
 Dev-ControlRig:A7820CFB20A743598C542C149623CF50=21
 Dev-IKRig:F6DFBB78BB50A0E44018B84D60CBAF23=2
-AudioSynesthesiaVer:82E77C4E332343A5B46B13C597310DF3=0
 Paper2DVer:11310AED2E554D61AF679AA3C5A1082C=17
 CommonUIVer:0925477B763D40019D91D6730B75B411=1
 CommonUI:4288211B454816C61A7667B2507A2A00=1

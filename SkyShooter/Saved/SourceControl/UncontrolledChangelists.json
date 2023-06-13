@@ -5,9 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiences/SkyShooter_UserFacingExperienceDef.uasset",
 				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/SkyShooter.uasset",
-				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Experiences/test_controlpoints.uasset"
+				"C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Content/Maps/L_HourGlass.umap"
 			]
 		}
 	]

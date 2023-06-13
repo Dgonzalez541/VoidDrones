@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\intermediate\\build\\win64\\unrealgame\\inc\\skyshootergame\\uht\\lyrapenetrationavoidancefeeler.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\intermediate\\build\\win64\\skyshootergame\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\intermediate\\build\\win64\\unrealgame\\development\\skyshootergame\\definitions.skyshootergame.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\source\\skyshootergame\\camera\\lyrapenetrationavoidancefeeler.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\intermediate\\build\\win64\\unrealgame\\inc\\skyshootergame\\uht\\lyrapenetrationavoidancefeeler.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
