@@ -18,7 +18,7 @@ ULyraGameInstance::ULyraGameInstance(const FObjectInitializer& ObjectInitializer
 	: Super(ObjectInitializer)
 {
 }
-
+ 
 void ULyraGameInstance::Init()
 {
 	Super::Init();
