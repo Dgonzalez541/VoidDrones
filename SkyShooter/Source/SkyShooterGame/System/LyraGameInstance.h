@@ -4,7 +4,7 @@
 
 #include "CommonGameInstance.h"
 #include "UObject/UObjectGlobals.h"
-
+#include "Settings/LyraSettingsLocal.h"
 #include "LyraGameInstance.generated.h"
 
 class ALyraPlayerController;
@@ -22,6 +22,11 @@ public:
 	ALyraPlayerController* GetPrimaryPlayerController() const;
 	
 	virtual bool CanJoinRequestedSession() const override;
+
+	ULyraSettingsLocal* UserSettings;
+
+	UFUNCTION(BlueprintCallable)
+	ULyraSettingsLocal * GetUserSettings();
 
 protected:
 

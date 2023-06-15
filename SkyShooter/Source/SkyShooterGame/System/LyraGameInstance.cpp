@@ -11,7 +11,7 @@
 #include "Player/LyraPlayerController.h"
 #include "Templates/Casts.h"
 #include "Engine/LocalPlayer.h"
-
+#include "Settings/LyraSettingsLocal.h"
 #include UE_INLINE_GENERATED_CPP_BY_NAME(LyraGameInstance)
 
 ULyraGameInstance::ULyraGameInstance(const FObjectInitializer& ObjectInitializer)
@@ -23,6 +23,7 @@ void ULyraGameInstance::Init()
 {
 	Super::Init();
 
+	UserSettings = ULyraSettingsLocal::Get();
 	// Register our custom init states
 	UGameFrameworkComponentManager* ComponentManager = GetSubsystem<UGameFrameworkComponentManager>(this);
 
@@ -56,4 +57,9 @@ bool ULyraGameInstance::CanJoinRequestedSession() const
 		return false;
 	}
 	return true;
+}
+
+ULyraSettingsLocal* ULyraGameInstance::GetUserSettings()
+{
+	return UserSettings;
 }

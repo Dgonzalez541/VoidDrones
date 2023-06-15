@@ -50,6 +50,18 @@ static TAutoConsoleVariable<bool> CVarApplyDeviceProfilesInPIE(TEXT("Lyra.Settin
 	ECVF_Default);
 #endif
 
+int32 ULyraSettingsLocal::GetUserCharacter()
+{
+	return UserCharacter;
+}
+
+void ULyraSettingsLocal::SetUserCharacter(int32 InUserCharacter)
+{
+	UserCharacter = InUserCharacter;
+}
+
+
+
 //////////////////////////////////////////////////////////////////////
 // Console frame pacing
 

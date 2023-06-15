@@ -99,6 +99,16 @@ private:
 	// Event for display stat widget containers to bind to
 	FPerfStatSettingsChanged PerfStatSettingsChangedEvent;
 
+	//  Character selection
+	public:
+	UFUNCTION(BlueprintCallable)
+	int32 GetUserCharacter();
+	UFUNCTION(BlueprintCallable)
+	void SetUserCharacter(int32 NewUserCharacter);
+
+private: 
+	UPROPERTY(Config)
+	int32 UserCharacter;
 	//////////////////////////////////////////////////////////////////
 	// Brightness/Gamma
 public:
