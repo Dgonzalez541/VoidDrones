@@ -157,8 +157,41 @@ void ULyraAbilitySet::GiveToAbilitySystem(ULyraAbilitySystemComponent* LyraASC, 
 	}
 }
 
-void ULyraAbilitySet::GiveToAbilitySystem(ULyraAbilitySystemComponent* LyraASC)
+TArray<ULyraGameplayAbility*> ULyraAbilitySet::GiveToAbilitySystem(ULyraAbilitySystemComponent* LyraASC)
 {
-	this->GiveToAbilitySystem(LyraASC,nullptr);
+	FLyraAbilitySet_GrantedHandles* OutGrantedHandles = nullptr;
+	this->GiveToAbilitySystem(LyraASC,OutGrantedHandles);
+
+	TArray<ULyraGameplayAbility*> OutGrantedAbilities;
+	for(int32 AbilityIndex = 0; AbilityIndex < GrantedGameplayAbilities.Num(); ++AbilityIndex)
+	{
+ 		const FLyraAbilitySet_GameplayAbility& AbilityToGrant = GrantedGameplayAbilities[AbilityIndex];
+
+		if (!IsValid(AbilityToGrant.Ability))
+		{
+			UE_LOG(LogLyraAbilitySystem, Error, TEXT("GrantedGameplayAbilities[%d] on ability set [%s] is not valid."), AbilityIndex, *GetNameSafe(this));
+			continue;
+		}
+
+		ULyraGameplayAbility* AbilityCDO = AbilityToGrant.Ability->GetDefaultObject<ULyraGameplayAbility>();
+		OutGrantedAbilities.Add(AbilityCDO);
+	}
+	return OutGrantedAbilities;
 }
+
+/*TArray<FGameplayTag*> ULyraAbilitySet::GetAbilityInputTags()
+{
+	TArray<FGameplayTag*> OutTags;
+	for (int32 AbilityIndex = 0; AbilityIndex < GrantedGameplayAbilities.Num(); ++AbilityIndex)
+	{
+		const FLyraAbilitySet_GameplayAbility& AbilityToGrant = GrantedGameplayAbilities[AbilityIndex];
+
+		if (!IsValid(AbilityToGrant.Ability))
+		{
+			UE_LOG(LogLyraAbilitySystem, Error, TEXT("GrantedGameplayAbilities[%d] on ability set [%s] is not valid."), AbilityIndex, *GetNameSafe(this));
+		}
+		OutTags.Add(AbilityToGrant.InputTag);
+	}
+	return {};
+}*/
 

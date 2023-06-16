@@ -138,7 +138,12 @@ public:
 	void GiveToAbilitySystem(ULyraAbilitySystemComponent* LyraASC, FLyraAbilitySet_GrantedHandles* OutGrantedHandles, UObject* SourceObject = nullptr) const;
 
 	UFUNCTION(BlueprintCallable)
-	void GiveToAbilitySystem(ULyraAbilitySystemComponent* LyraASC);
+	TArray<ULyraGameplayAbility*> GiveToAbilitySystem(ULyraAbilitySystemComponent* LyraASC);
+
+	/*UFUNCTION(BlueprintCallable)
+	TArray<FGameplayTag*> GetAbilityInputTags()*/
+
+	
 protected:
 
 	// Gameplay abilities to grant when this ability set is granted.
