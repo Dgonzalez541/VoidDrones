@@ -1,6 +1,6 @@
-D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameSubtitles\Module.GameSubtitles.cpp
+C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameSubtitles\Module.GameSubtitles.cpp
 /I .
-/I D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Source\Private
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSubtitles\Source\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -270,10 +270,10 @@ D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Intermedia
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\Inc\GameSubtitles\UHT
-/I D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameSubtitles
-/I D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Source
-/I D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Source\Public
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\Inc\GameSubtitles\UHT
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSubtitles
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSubtitles\Source
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSubtitles\Source\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Overlay\UHT
 /I Runtime\Overlay\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MediaAssets\UHT
@@ -285,17 +285,17 @@ D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Intermedia
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h"
-/FI"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameSubtitles\Definitions.GameSubtitles.h"
-/Yu"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h"
-/Fp"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.pch"
-/Fo"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameSubtitles\Module.GameSubtitles.cpp.obj"
-/sourceDependencies D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameSubtitles\Module.GameSubtitles.cpp.dep.json
+/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h"
+/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameSubtitles\Definitions.GameSubtitles.h"
+/Yu"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h"
+/Fp"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.pch"
+/Fo"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameSubtitles\Module.GameSubtitles.cpp.obj"
+/sourceDependencies C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameSubtitles\Module.GameSubtitles.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

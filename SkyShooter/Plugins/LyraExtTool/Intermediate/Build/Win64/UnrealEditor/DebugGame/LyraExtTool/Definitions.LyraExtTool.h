@@ -65,8 +65,8 @@
 #define UE_IS_ENGINE_MODULE 0
 #define UE_DISABLE_INLINE_GEN_CPP 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_1 0
-#define UE_PROJECT_NAME LyraStarterGame
-#define UE_TARGET_NAME LyraEditor
+#define UE_PROJECT_NAME SkyShooter
+#define UE_TARGET_NAME SkyShooterEditor
 #define UE_MODULE_NAME "LyraExtTool"
 #define UE_PLUGIN_NAME "LyraExtTool"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 

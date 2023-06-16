@@ -157,3 +157,8 @@ void ULyraAbilitySet::GiveToAbilitySystem(ULyraAbilitySystemComponent* LyraASC, 
 	}
 }
 
+void ULyraAbilitySet::GiveToAbilitySystem(ULyraAbilitySystemComponent* LyraASC)
+{
+	this->GiveToAbilitySystem(LyraASC,nullptr);
+}
+

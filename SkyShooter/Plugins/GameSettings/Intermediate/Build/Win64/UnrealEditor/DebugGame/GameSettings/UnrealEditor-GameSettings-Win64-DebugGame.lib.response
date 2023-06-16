@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-GameSettings-Win64-DebugGame.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameSettings\Module.GameSettings.cpp.obj"
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameSettings\Default.rc2.res"
-/OUT:"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameSettings\UnrealEditor-GameSettings-Win64-DebugGame.lib"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameSettings\Module.GameSettings.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameSettings\Default.rc2.res"
+/OUT:"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameSettings\UnrealEditor-GameSettings-Win64-DebugGame.lib"

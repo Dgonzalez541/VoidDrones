@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-GameplayMessageNodes-Win64-DebugGame.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.NonOptimized.ShadowErrors.h.obj"
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameplayMessageNodes\Module.GameplayMessageNodes.cpp.obj"
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameplayMessageNodes\Default.rc2.res"
-/OUT:"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameplayMessageNodes\UnrealEditor-GameplayMessageNodes-Win64-DebugGame.lib"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.NonOptimized.ShadowErrors.h.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameplayMessageNodes\Module.GameplayMessageNodes.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameplayMessageNodes\Default.rc2.res"
+/OUT:"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\DebugGame\GameplayMessageNodes\UnrealEditor-GameplayMessageNodes-Win64-DebugGame.lib"

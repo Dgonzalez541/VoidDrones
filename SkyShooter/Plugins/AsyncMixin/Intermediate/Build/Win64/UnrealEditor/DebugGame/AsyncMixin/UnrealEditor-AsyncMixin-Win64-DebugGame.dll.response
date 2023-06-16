@@ -19,7 +19,7 @@
 /ignore:4099
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
@@ -33,9 +33,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\DebugGame\AsyncMixin\Module.AsyncMixin.cpp.obj"
-"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\DebugGame\AsyncMixin\Default.rc2.res"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\DebugGame\AsyncMixin\Module.AsyncMixin.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\DebugGame\AsyncMixin\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -63,7 +63,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\AsyncMixin\Binaries\Win64\UnrealEditor-AsyncMixin-Win64-DebugGame.dll"
-/IMPLIB:"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\DebugGame\AsyncMixin\UnrealEditor-AsyncMixin-Win64-DebugGame.suppressed.lib"
-/PDB:"D:\Unreal\SkyShooter\SkyShooter\LyraStarterGame\Plugins\AsyncMixin\Binaries\Win64\UnrealEditor-AsyncMixin-Win64-DebugGame.pdb"
+/OUT:"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Binaries\Win64\UnrealEditor-AsyncMixin-Win64-DebugGame.dll"
+/IMPLIB:"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\DebugGame\AsyncMixin\UnrealEditor-AsyncMixin-Win64-DebugGame.suppressed.lib"
+/PDB:"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Binaries\Win64\UnrealEditor-AsyncMixin-Win64-DebugGame.pdb"
 /ignore:4078
