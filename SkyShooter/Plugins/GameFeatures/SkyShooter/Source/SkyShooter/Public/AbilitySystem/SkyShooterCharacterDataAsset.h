@@ -20,9 +20,15 @@ private:
 	GENERATED_BODY()
 
 public:
-	UPROPERTY(VisibleInstanceOnly, BlueprintReadWrite, Category = "Gameplay Abilities", meta=(TitleProperty=Ability))
+	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Gameplay Abilities", meta=(TitleProperty=Ability))
 	TArray<ULyraAbilitySet*> AbilitySets;
 
-	UPROPERTY(VisibleInstanceOnly, BlueprintReadWrite, Category = "Gameplay Abilities", meta=(TitleProperty=Ability))
+	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Gameplay Abilities", meta=(TitleProperty=Ability))
 	UClass* CharacterClass;
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Gameplay Abilities", meta=(TitleProperty=Ability))
+	UClass* WID_Weapon;
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Gameplay Abilities", meta=(TitleProperty=Ability))
+	TArray<UClass*> WeaponLoadout;
 };

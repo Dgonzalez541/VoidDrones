@@ -40,6 +40,15 @@ void EmptyLinkFunctionForGeneratedCodeSkyShooterCharacterDataAsset() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_CharacterClass_MetaData[];
 #endif
 		static const UECodeGen_Private::FClassPropertyParams NewProp_CharacterClass;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_WID_Weapon_MetaData[];
+#endif
+		static const UECodeGen_Private::FClassPropertyParams NewProp_WID_Weapon;
+		static const UECodeGen_Private::FClassPropertyParams NewProp_WeaponLoadout_Inner;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_WeaponLoadout_MetaData[];
+#endif
+		static const UECodeGen_Private::FArrayPropertyParams NewProp_WeaponLoadout;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
@@ -56,7 +65,7 @@ void EmptyLinkFunctionForGeneratedCodeSkyShooterCharacterDataAsset() {}
 		{ "ModuleRelativePath", "Public/AbilitySystem/SkyShooterCharacterDataAsset.h" },
 	};
 #endif
-	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_AbilitySets_Inner = { "AbilitySets", nullptr, (EPropertyFlags)0x0000000000020000, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, 0, Z_Construct_UClass_ULyraAbilitySet_NoRegister, METADATA_PARAMS(nullptr, 0) };
+	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_AbilitySets_Inner = { "AbilitySets", nullptr, (EPropertyFlags)0x0000000000000000, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, 0, Z_Construct_UClass_ULyraAbilitySet_NoRegister, METADATA_PARAMS(nullptr, 0) };
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_AbilitySets_MetaData[] = {
 		{ "Category", "Gameplay Abilities" },
@@ -64,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodeSkyShooterCharacterDataAsset() {}
 		{ "TitleProperty", "Ability" },
 	};
 #endif
-	const UECodeGen_Private::FArrayPropertyParams Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_AbilitySets = { "AbilitySets", nullptr, (EPropertyFlags)0x0010000000020815, UECodeGen_Private::EPropertyGenFlags::Array, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(USkyShooterCharacterDataAsset, AbilitySets), EArrayPropertyFlags::None, METADATA_PARAMS(Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_AbilitySets_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_AbilitySets_MetaData)) };
+	const UECodeGen_Private::FArrayPropertyParams Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_AbilitySets = { "AbilitySets", nullptr, (EPropertyFlags)0x0010000000010015, UECodeGen_Private::EPropertyGenFlags::Array, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(USkyShooterCharacterDataAsset, AbilitySets), EArrayPropertyFlags::None, METADATA_PARAMS(Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_AbilitySets_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_AbilitySets_MetaData)) };
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_CharacterClass_MetaData[] = {
 		{ "Category", "Gameplay Abilities" },
@@ -72,11 +81,31 @@ void EmptyLinkFunctionForGeneratedCodeSkyShooterCharacterDataAsset() {}
 		{ "TitleProperty", "Ability" },
 	};
 #endif
-	const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_CharacterClass = { "CharacterClass", nullptr, (EPropertyFlags)0x0010000000020815, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(USkyShooterCharacterDataAsset, CharacterClass), Z_Construct_UClass_UClass, Z_Construct_UClass_UObject_NoRegister, METADATA_PARAMS(Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_CharacterClass_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_CharacterClass_MetaData)) };
+	const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_CharacterClass = { "CharacterClass", nullptr, (EPropertyFlags)0x0010000000010015, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(USkyShooterCharacterDataAsset, CharacterClass), Z_Construct_UClass_UClass, Z_Construct_UClass_UObject_NoRegister, METADATA_PARAMS(Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_CharacterClass_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_CharacterClass_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_WID_Weapon_MetaData[] = {
+		{ "Category", "Gameplay Abilities" },
+		{ "ModuleRelativePath", "Public/AbilitySystem/SkyShooterCharacterDataAsset.h" },
+		{ "TitleProperty", "Ability" },
+	};
+#endif
+	const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_WID_Weapon = { "WID_Weapon", nullptr, (EPropertyFlags)0x0010000000010015, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(USkyShooterCharacterDataAsset, WID_Weapon), Z_Construct_UClass_UClass, Z_Construct_UClass_UObject_NoRegister, METADATA_PARAMS(Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_WID_Weapon_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_WID_Weapon_MetaData)) };
+	const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_WeaponLoadout_Inner = { "WeaponLoadout", nullptr, (EPropertyFlags)0x0000000000000000, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, 0, Z_Construct_UClass_UClass, Z_Construct_UClass_UObject_NoRegister, METADATA_PARAMS(nullptr, 0) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_WeaponLoadout_MetaData[] = {
+		{ "Category", "Gameplay Abilities" },
+		{ "ModuleRelativePath", "Public/AbilitySystem/SkyShooterCharacterDataAsset.h" },
+		{ "TitleProperty", "Ability" },
+	};
+#endif
+	const UECodeGen_Private::FArrayPropertyParams Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_WeaponLoadout = { "WeaponLoadout", nullptr, (EPropertyFlags)0x0010000000010015, UECodeGen_Private::EPropertyGenFlags::Array, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(USkyShooterCharacterDataAsset, WeaponLoadout), EArrayPropertyFlags::None, METADATA_PARAMS(Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_WeaponLoadout_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_WeaponLoadout_MetaData)) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_AbilitySets_Inner,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_AbilitySets,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_CharacterClass,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_WID_Weapon,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_WeaponLoadout_Inner,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::NewProp_WeaponLoadout,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_USkyShooterCharacterDataAsset_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<USkyShooterCharacterDataAsset>::IsAbstract,
@@ -115,9 +144,9 @@ void EmptyLinkFunctionForGeneratedCodeSkyShooterCharacterDataAsset() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProjects_SkyShooter_SkyShooter_SkyShooter_Plugins_GameFeatures_SkyShooter_Source_SkyShooter_Public_AbilitySystem_SkyShooterCharacterDataAsset_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_USkyShooterCharacterDataAsset, USkyShooterCharacterDataAsset::StaticClass, TEXT("USkyShooterCharacterDataAsset"), &Z_Registration_Info_UClass_USkyShooterCharacterDataAsset, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USkyShooterCharacterDataAsset), 1726972970U) },
+		{ Z_Construct_UClass_USkyShooterCharacterDataAsset, USkyShooterCharacterDataAsset::StaticClass, TEXT("USkyShooterCharacterDataAsset"), &Z_Registration_Info_UClass_USkyShooterCharacterDataAsset, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USkyShooterCharacterDataAsset), 2696831413U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProjects_SkyShooter_SkyShooter_SkyShooter_Plugins_GameFeatures_SkyShooter_Source_SkyShooter_Public_AbilitySystem_SkyShooterCharacterDataAsset_h_1544884487(TEXT("/Script/SkyShooter"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProjects_SkyShooter_SkyShooter_SkyShooter_Plugins_GameFeatures_SkyShooter_Source_SkyShooter_Public_AbilitySystem_SkyShooterCharacterDataAsset_h_3388346922(TEXT("/Script/SkyShooter"),
 		Z_CompiledInDeferFile_FID_UnrealProjects_SkyShooter_SkyShooter_SkyShooter_Plugins_GameFeatures_SkyShooter_Source_SkyShooter_Public_AbilitySystem_SkyShooterCharacterDataAsset_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealProjects_SkyShooter_SkyShooter_SkyShooter_Plugins_GameFeatures_SkyShooter_Source_SkyShooter_Public_AbilitySystem_SkyShooterCharacterDataAsset_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
