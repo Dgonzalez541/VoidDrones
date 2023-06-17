@@ -35,6 +35,7 @@
 /FUNCTIONPADMIN:6
 "C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Module.SkyShooter.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\SkyShooterCharacterDataAsset.cpp.obj"
 "C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -53,6 +54,7 @@
 "..\Intermediate\Build\Win64\UnrealEditor\Development\DeveloperSettings\UnrealEditor-DeveloperSettings.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\AIModule\UnrealEditor-AIModule.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooterGame\UnrealEditor-SkyShooterGame.lib"
 "..\Plugins\Experimental\ModularGameplay\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplay\UnrealEditor-ModularGameplay.lib"
 "C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonGame\Intermediate\Build\Win64\UnrealEditor\Development\CommonGame\UnrealEditor-CommonGame.lib"
 "delayimp.lib"

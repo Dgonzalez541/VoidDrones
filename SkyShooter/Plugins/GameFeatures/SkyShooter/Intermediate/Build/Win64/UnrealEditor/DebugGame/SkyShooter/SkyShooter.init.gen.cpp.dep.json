@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\plugins\\gamefeatures\\skyshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\skyshooter\\uht\\skyshooter.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\intermediate\\build\\win64\\skyshootereditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\plugins\\gamefeatures\\skyshooter\\intermediate\\build\\win64\\unrealeditor\\debuggame\\skyshooter\\definitions.skyshooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\plugins\\gamefeatures\\skyshooter\\source\\skyshooter\\private\\abilitysystem\\skyshootercharacterdataasset.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\intermediate\\build\\win64\\skyshootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\plugins\\gamefeatures\\skyshooter\\intermediate\\build\\win64\\unrealeditor\\development\\skyshooter\\definitions.skyshooter.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\plugins\\gamefeatures\\skyshooter\\source\\skyshooter\\public\\abilitysystem\\skyshootercharacterdataasset.h",
+            "c:\\unrealprojects\\skyshooter\\skyshooter\\skyshooter\\plugins\\gamefeatures\\skyshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\skyshooter\\uht\\skyshootercharacterdataasset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

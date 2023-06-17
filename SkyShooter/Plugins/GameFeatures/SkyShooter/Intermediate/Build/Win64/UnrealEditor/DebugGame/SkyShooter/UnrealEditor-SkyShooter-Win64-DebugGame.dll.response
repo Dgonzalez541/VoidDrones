@@ -35,6 +35,9 @@
 /FUNCTIONPADMIN:6
 "C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
 "C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\DebugGame\SkyShooter\Module.SkyShooter.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\DebugGame\SkyShooter\SkyShooterCharacterDataAsset.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\DebugGame\SkyShooter\SkyShooter.init.gen.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\DebugGame\SkyShooter\SkyShooterCharacterDataAsset.gen.cpp.obj"
 "C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\DebugGame\SkyShooter\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
