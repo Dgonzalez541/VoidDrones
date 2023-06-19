@@ -14,7 +14,7 @@ void ULyraTabButtonBase::SetIconFromLazyObject(TSoftObjectPtr<UObject> LazyObjec
 {
 	if (LazyImage_Icon)
 	{
-		LazyImage_Icon->SetBrushFromLazyDisplayAsset(LazyObject);
+		//LazyImage_Icon->SetBrushFromLazyDisplayAsset(LazyObject);
 	}
 }
 
@@ -29,6 +29,6 @@ void ULyraTabButtonBase::SetIconBrush(const FSlateBrush& Brush)
 void ULyraTabButtonBase::SetTabLabelInfo_Implementation(const FLyraTabDescriptor& TabLabelInfo)
 {
 	SetButtonText(TabLabelInfo.TabText);
-	SetIconBrush(TabLabelInfo.IconBrush);
+	//SetIconBrush(TabLabelInfo.IconBrush);
 }
 
