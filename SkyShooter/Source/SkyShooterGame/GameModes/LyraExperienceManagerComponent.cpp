@@ -12,6 +12,7 @@
 #include "TimerManager.h"
 #include "Settings/LyraSettingsLocal.h"
 #include "LyraLogChannels.h"
+#include "Character/LyraPawnData.h"
 
 #include UE_INLINE_GENERATED_CPP_BY_NAME(LyraExperienceManagerComponent)
 

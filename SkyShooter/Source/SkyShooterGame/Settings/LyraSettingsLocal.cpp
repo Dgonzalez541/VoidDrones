@@ -58,8 +58,14 @@ int32 ULyraSettingsLocal::GetUserCharacter()
 void ULyraSettingsLocal::SetUserCharacter(int32 InUserCharacter)
 {
 	UserCharacter = InUserCharacter;
+
+	//Add to experience here?
+	
 }
 
+void ULyraSettingsLocal::SetUserCharacterBP(USkyShooterCharacterDataAsset* CharacterDataAsset)
+{ 
+}
 
 
 //////////////////////////////////////////////////////////////////////

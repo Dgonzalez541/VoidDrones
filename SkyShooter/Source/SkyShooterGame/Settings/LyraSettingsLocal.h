@@ -12,6 +12,7 @@
 #include "InputCoreTypes.h"
 #include "Performance/LyraPerformanceStatTypes.h"
 #include "Scalability.h"
+#include "AbilitySystem/SkyShooterCharacterDataAsset.h"
 #include "UObject/NameTypes.h"
 #include "UObject/UObjectGlobals.h"
 
@@ -105,6 +106,9 @@ private:
 	int32 GetUserCharacter();
 	UFUNCTION(BlueprintCallable)
 	void SetUserCharacter(int32 NewUserCharacter);
+
+	UFUNCTION(BlueprintCallable)
+	void SetUserCharacterBP(USkyShooterCharacterDataAsset* CharacterDataAsset);
 
 private: 
 	UPROPERTY(Config)
