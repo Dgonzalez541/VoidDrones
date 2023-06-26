@@ -165,13 +165,14 @@ void ULyraQuickBarComponent::UnequipWeapons()
 	OnRep_ActiveSlotIndex();
 }
 
-void ULyraQuickBarComponent::EquipWeapons()
+void ULyraQuickBarComponent::EquipWeapons(int32 WeaponSlotIndex)
 {
-	ActiveSlotIndex = 0;
-
+	PreviousSlotIndex = ActiveSlotIndex;
+	ActiveSlotIndex = WeaponSlotIndex;
 	EquipItemInSlot();
 	OnRep_ActiveSlotIndex();
 }
+
 
 void ULyraQuickBarComponent::ToggleWeapons()
 {
