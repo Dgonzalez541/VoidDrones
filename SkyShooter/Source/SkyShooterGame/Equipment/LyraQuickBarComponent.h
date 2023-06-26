@@ -38,6 +38,9 @@ public:
 	void UnequipWeapons();
 
 	UFUNCTION( BlueprintCallable, BlueprintAuthorityOnly, Category="Lyra")
+	void EquipWeapons();
+
+	UFUNCTION( BlueprintCallable, BlueprintAuthorityOnly, Category="Lyra")
 	void ToggleWeapons();
 
 	UFUNCTION(BlueprintCallable, BlueprintPure=false)
