@@ -4,6 +4,8 @@
 #include "C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Intermediate/Build/Win64/UnrealGame/Inc/SkyShooter/UHT/ChargeComponent.gen.cpp"
 #include "C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Intermediate/Build/Win64/UnrealGame/Inc/SkyShooter/UHT/GlideComponent.gen.cpp"
 #include "C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Intermediate/Build/Win64/UnrealGame/Inc/SkyShooter/UHT/ManaComponent.gen.cpp"
+#include "C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Intermediate/Build/Win64/UnrealGame/Inc/SkyShooter/UHT/SkyShooter.init.gen.cpp"
+#include "C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Intermediate/Build/Win64/UnrealGame/Inc/SkyShooter/UHT/SkyShooterCharacterDataAsset.gen.cpp"
 #include "C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Intermediate/Build/Win64/UnrealGame/Inc/SkyShooter/UHT/WallRunComponent.gen.cpp"
 #include "C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Source/SkyShooter/Private/AbilitySystem/GlideComponent.cpp"
 #include "C:/UnrealProjects/SkyShooter/SkyShooter/SkyShooter/Plugins/GameFeatures/SkyShooter/Source/SkyShooter/Private/AbilitySystem/SkyShooterCharacterDataAsset.cpp"
