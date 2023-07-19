@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeGameSettings_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xEA330800,
+				0xD18426BF,
 				0xA217174C,
 				METADATA_PARAMS(nullptr, 0)
 			};
@@ -29,5 +29,5 @@ void EmptyLinkFunctionForGeneratedCodeGameSettings_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_GameSettings.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_GameSettings(Z_Construct_UPackage__Script_GameSettings, TEXT("/Script/GameSettings"), Z_Registration_Info_UPackage__Script_GameSettings, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xEA330800, 0xA217174C));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_GameSettings(Z_Construct_UPackage__Script_GameSettings, TEXT("/Script/GameSettings"), Z_Registration_Info_UPackage__Script_GameSettings, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xD18426BF, 0xA217174C));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
