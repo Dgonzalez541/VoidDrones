@@ -1,9 +1,9 @@
-C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\Development\AsyncMixin\Module.AsyncMixin.cpp
+C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\Development\AsyncMixin\Module.AsyncMixin.cpp
 /I .
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\AsyncMixin\Source\Private
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\AsyncMixin
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\AsyncMixin\Source
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\AsyncMixin\Source\Public
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Source\Private
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Source
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Source\Public
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -282,12 +282,12 @@ C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\AsyncMixin\Intermediat
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\Development\AsyncMixin\Definitions.AsyncMixin.h"
-/Yu"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\Development\AsyncMixin\Module.AsyncMixin.cpp.obj"
-/sourceDependencies C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\Development\AsyncMixin\Module.AsyncMixin.cpp.dep.json
+/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\Development\AsyncMixin\Definitions.AsyncMixin.h"
+/Yu"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\Development\AsyncMixin\Module.AsyncMixin.cpp.obj"
+/sourceDependencies C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Intermediate\Build\Win64\UnrealEditor\Development\AsyncMixin\Module.AsyncMixin.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

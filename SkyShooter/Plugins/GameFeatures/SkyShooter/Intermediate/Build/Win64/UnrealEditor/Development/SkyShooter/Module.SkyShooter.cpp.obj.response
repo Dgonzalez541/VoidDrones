@@ -1,6 +1,6 @@
-C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Module.SkyShooter.cpp
+C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Module.SkyShooter.cpp
 /I .
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Source\SkyShooter\Private
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameFeatures\SkyShooter\Source\SkyShooter\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -276,9 +276,9 @@ C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShoot
 /I ..\Plugins\Runtime\DataRegistry\Intermediate\Build\Win64\UnrealEditor\Inc\DataRegistry\UHT
 /I ..\Plugins\Runtime\DataRegistry\Source
 /I ..\Plugins\Runtime\DataRegistry\Source\DataRegistry\Public
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayMessageRuntime\UHT
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Source
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Public
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayMessageRuntime\UHT
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameplayMessageRouter\Source
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Public
 /I ..\Plugins\Experimental\CommonUI\Intermediate\Build\Win64\UnrealEditor\Inc\CommonUI\UHT
 /I ..\Plugins\Experimental\CommonUI\Source
 /I ..\Plugins\Experimental\CommonUI\Source\CommonUI\Public
@@ -291,30 +291,30 @@ C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShoot
 /I Runtime\Media\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MediaUtils\UHT
 /I Runtime\MediaUtils\Public
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Source
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\AsyncMixin\Source\Public
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\AsyncMixin
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\AsyncMixin\Source
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\AsyncMixin\Source\Public
 /I ..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT
 /I ..\Plugins\EnhancedInput\Source
 /I ..\Plugins\EnhancedInput\Source\EnhancedInput\Public
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\Inc\GameSubtitles\UHT
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSubtitles
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSubtitles\Source
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSubtitles\Source\Public
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameSubtitles\Intermediate\Build\Win64\UnrealEditor\Inc\GameSubtitles\UHT
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameSubtitles
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameSubtitles\Source
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameSubtitles\Source\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Overlay\UHT
 /I Runtime\Overlay\Public
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Inc\SkyShooter\UHT
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Source
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Source\SkyShooter\Public
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Inc\SkyShooterGame\UHT
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Source
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Source\SkyShooterGame
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Inc\SkyShooter\UHT
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameFeatures\SkyShooter\Source
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameFeatures\SkyShooter\Source\SkyShooter\Public
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Inc\SkyShooterGame\UHT
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Source
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Source\SkyShooterGame
 /I ..\Plugins\Experimental\ModularGameplay\Intermediate\Build\Win64\UnrealEditor\Inc\ModularGameplay\UHT
 /I ..\Plugins\Experimental\ModularGameplay\Source
 /I ..\Plugins\Experimental\ModularGameplay\Source\ModularGameplay\Public
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Inc\ModularGameplayActors\UHT
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\ModularGameplayActors\Source
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Inc\ModularGameplayActors\UHT
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\ModularGameplayActors\Source
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public
 /I ..\Plugins\Runtime\ReplicationGraph\Intermediate\Build\Win64\UnrealEditor\Inc\ReplicationGraph\UHT
 /I ..\Plugins\Runtime\ReplicationGraph
 /I ..\Plugins\Runtime\ReplicationGraph\Source\Public
@@ -335,9 +335,9 @@ C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShoot
 /I ..\Plugins\Online\OnlineSubsystem\Source\Public
 /I ..\Plugins\Online\OnlineBase
 /I ..\Plugins\Online\OnlineBase\Source\Public
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Inc\CommonLoadingScreen\UHT
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Source
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Inc\CommonLoadingScreen\UHT
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonLoadingScreen\Source
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public
 /I ..\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\UHT
 /I ..\Plugins\FX\Niagara\Source
 /I ..\Plugins\FX\Niagara\Source\Niagara\Classes
@@ -352,13 +352,13 @@ C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShoot
 /I Developer\DesktopPlatform\Public
 /I ..\Plugins\Experimental\ControlFlows\Source
 /I ..\Plugins\Experimental\ControlFlows\Source\ControlFlows\Public
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonGame\Intermediate\Build\Win64\UnrealEditor\Inc\CommonGame\UHT
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonGame
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonGame\Source
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonGame\Source\Public
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonUser\Intermediate\Build\Win64\UnrealEditor\Inc\CommonUser\UHT
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonUser\Source
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonUser\Source\CommonUser\Public
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonGame\Intermediate\Build\Win64\UnrealEditor\Inc\CommonGame\UHT
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonGame
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonGame\Source
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonGame\Source\Public
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonUser\Intermediate\Build\Win64\UnrealEditor\Inc\CommonUser\UHT
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonUser\Source
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonUser\Source\CommonUser\Public
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -368,12 +368,12 @@ C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShoot
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Definitions.SkyShooter.h"
-/Yu"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Module.SkyShooter.cpp.obj"
-/sourceDependencies C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Module.SkyShooter.cpp.dep.json
+/FI"C:\UnrealProjects\VoidDrones\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Definitions.SkyShooter.h"
+/Yu"C:\UnrealProjects\VoidDrones\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\UnrealProjects\VoidDrones\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Module.SkyShooter.cpp.obj"
+/sourceDependencies C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameFeatures\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooter\Module.SkyShooter.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

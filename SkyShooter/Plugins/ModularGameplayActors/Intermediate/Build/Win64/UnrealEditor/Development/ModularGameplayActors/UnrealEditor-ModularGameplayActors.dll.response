@@ -33,9 +33,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\Module.ModularGameplayActors.cpp.obj"
-"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\Default.rc2.res"
+"C:\UnrealProjects\VoidDrones\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\Module.ModularGameplayActors.cpp.obj"
+"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -65,7 +65,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\ModularGameplayActors\Binaries\Win64\UnrealEditor-ModularGameplayActors.dll"
-/IMPLIB:"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\UnrealEditor-ModularGameplayActors.suppressed.lib"
-/PDB:"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\ModularGameplayActors\Binaries\Win64\UnrealEditor-ModularGameplayActors.pdb"
+/OUT:"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\ModularGameplayActors\Binaries\Win64\UnrealEditor-ModularGameplayActors.dll"
+/IMPLIB:"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\UnrealEditor-ModularGameplayActors.suppressed.lib"
+/PDB:"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\ModularGameplayActors\Binaries\Win64\UnrealEditor-ModularGameplayActors.pdb"
 /ignore:4078

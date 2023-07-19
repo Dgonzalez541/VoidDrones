@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-UIExtension.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\UIExtension\Intermediate\Build\Win64\UnrealEditor\Development\UIExtension\Module.UIExtension.cpp.obj"
-"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\UIExtension\Intermediate\Build\Win64\UnrealEditor\Development\UIExtension\Default.rc2.res"
-/OUT:"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\UIExtension\Intermediate\Build\Win64\UnrealEditor\Development\UIExtension\UnrealEditor-UIExtension.lib"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\UIExtension\Intermediate\Build\Win64\UnrealEditor\Development\UIExtension\Module.UIExtension.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\UIExtension\Intermediate\Build\Win64\UnrealEditor\Development\UIExtension\Default.rc2.res"
+/OUT:"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\UIExtension\Intermediate\Build\Win64\UnrealEditor\Development\UIExtension\UnrealEditor-UIExtension.lib"

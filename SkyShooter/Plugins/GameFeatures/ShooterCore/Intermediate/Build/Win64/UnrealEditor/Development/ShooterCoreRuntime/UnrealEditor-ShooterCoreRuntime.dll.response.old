@@ -53,6 +53,7 @@
 "..\Intermediate\Build\Win64\UnrealEditor\Development\DeveloperSettings\UnrealEditor-DeveloperSettings.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\AIModule\UnrealEditor-AIModule.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Development\SkyShooterGame\UnrealEditor-SkyShooterGame.lib"
 "..\Plugins\Experimental\ModularGameplay\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplay\UnrealEditor-ModularGameplay.lib"
 "C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonGame\Intermediate\Build\Win64\UnrealEditor\Development\CommonGame\UnrealEditor-CommonGame.lib"
 "delayimp.lib"

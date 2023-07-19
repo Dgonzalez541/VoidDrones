@@ -70,5 +70,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME=SkyShooter
 /DPROJECT_PRODUCT_IDENTIFIER=SkyShooter
-/fo "C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\Default.rc2.res"
+/fo "C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\GameFeatures\ShooterCore\Intermediate\Build\Win64\UnrealEditor\Development\ShooterCoreRuntime\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

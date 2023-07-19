@@ -1,6 +1,6 @@
-C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageNodes\Module.GameplayMessageNodes.cpp
+C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageNodes\Module.GameplayMessageNodes.cpp
 /I .
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Source\GameplayMessageNodes\Private
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Source\GameplayMessageNodes\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\BlueprintGraph\UHT
 /I Editor
 /I Editor\BlueprintGraph\Classes
@@ -270,11 +270,11 @@ C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayMessageRuntime\UHT
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Source
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Public
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayMessageNodes\UHT
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Source\GameplayMessageNodes\Public
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayMessageRuntime\UHT
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Source
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Public
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayMessageNodes\UHT
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Source\GameplayMessageNodes\Public
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -284,12 +284,12 @@ C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/FI"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageNodes\Definitions.GameplayMessageNodes.h"
-/Yu"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-/Fo"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageNodes\Module.GameplayMessageNodes.cpp.obj"
-/sourceDependencies C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageNodes\Module.GameplayMessageNodes.cpp.dep.json
+/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageNodes\Definitions.GameplayMessageNodes.h"
+/Yu"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+/Fo"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageNodes\Module.GameplayMessageNodes.cpp.obj"
+/sourceDependencies C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Development\GameplayMessageNodes\Module.GameplayMessageNodes.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

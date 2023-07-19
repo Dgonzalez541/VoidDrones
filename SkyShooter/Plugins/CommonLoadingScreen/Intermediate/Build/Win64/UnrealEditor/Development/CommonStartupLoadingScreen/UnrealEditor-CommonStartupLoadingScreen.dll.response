@@ -33,9 +33,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Module.CommonStartupLoadingScreen.cpp.obj"
-"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Default.rc2.res"
+"C:\UnrealProjects\VoidDrones\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Module.CommonStartupLoadingScreen.cpp.obj"
+"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
@@ -68,7 +68,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Binaries\Win64\UnrealEditor-CommonStartupLoadingScreen.dll"
-/IMPLIB:"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\UnrealEditor-CommonStartupLoadingScreen.suppressed.lib"
-/PDB:"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Binaries\Win64\UnrealEditor-CommonStartupLoadingScreen.pdb"
+/OUT:"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonLoadingScreen\Binaries\Win64\UnrealEditor-CommonStartupLoadingScreen.dll"
+/IMPLIB:"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\UnrealEditor-CommonStartupLoadingScreen.suppressed.lib"
+/PDB:"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\CommonLoadingScreen\Binaries\Win64\UnrealEditor-CommonStartupLoadingScreen.pdb"
 /ignore:4078

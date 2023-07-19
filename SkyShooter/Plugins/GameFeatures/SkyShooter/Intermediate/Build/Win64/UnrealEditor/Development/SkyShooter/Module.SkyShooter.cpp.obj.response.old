@@ -308,6 +308,7 @@ C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShoot
 /I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameFeatures\SkyShooter\Source\SkyShooter\Public
 /I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\UnrealEditor\Inc\SkyShooterGame\UHT
 /I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Source
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Source\SkyShooterGame
 /I ..\Plugins\Experimental\ModularGameplay\Intermediate\Build\Win64\UnrealEditor\Inc\ModularGameplay\UHT
 /I ..\Plugins\Experimental\ModularGameplay\Source
 /I ..\Plugins\Experimental\ModularGameplay\Source\ModularGameplay\Public

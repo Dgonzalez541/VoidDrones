@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-CommonStartupLoadingScreen.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Module.CommonStartupLoadingScreen.cpp.obj"
-"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Default.rc2.res"
-/OUT:"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\UnrealEditor-CommonStartupLoadingScreen.lib"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Module.CommonStartupLoadingScreen.cpp.obj"
+"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Default.rc2.res"
+/OUT:"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\UnrealEditor-CommonStartupLoadingScreen.lib"

@@ -1,4 +1,4 @@
-C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\Developer\RiderLink\Source\RiderShaderInfo\RiderShaderInfo.cpp
+C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\Developer\RiderLink\Source\RiderShaderInfo\RiderShaderInfo.cpp
 /I .
 /I Runtime
 /I Runtime\TraceLog\Public
@@ -7,7 +7,7 @@ C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\Developer\RiderLink\S
 /I Runtime\Json\Public
 /I Runtime\RenderCore\Public
 /I Runtime\RHI\Public
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\Developer\RiderLink\Source
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\Developer\RiderLink\Source
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
@@ -15,9 +15,9 @@ C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\Developer\RiderLink\S
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\Definitions.h"
-/Fo"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.obj"
-/sourceDependencies C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.dep.json
+/FI"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\Definitions.h"
+/Fo"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.obj"
+/sourceDependencies C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfo\RiderShaderInfo.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

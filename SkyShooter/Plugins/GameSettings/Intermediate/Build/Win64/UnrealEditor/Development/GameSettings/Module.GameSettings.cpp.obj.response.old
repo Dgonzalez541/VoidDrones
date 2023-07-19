@@ -1,6 +1,6 @@
-C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\Development\GameSettings\Module.GameSettings.cpp
+C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\Development\GameSettings\Module.GameSettings.cpp
 /I .
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameSettings\Source\Private
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSettings\Source\Private
 /I Runtime
 /I Runtime\ApplicationCore\Public
 /I Runtime\TraceLog\Public
@@ -8,10 +8,10 @@ C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameSettings\Intermedi
 /I Runtime\RHI\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\PropertyPath\UHT
 /I Runtime\PropertyPath\Public
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\Inc\GameSettings\UHT
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameSettings
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameSettings\Source
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameSettings\Source\Public
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\Inc\GameSettings\UHT
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSettings
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSettings\Source
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSettings\Source\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\InputCore\UHT
@@ -295,12 +295,12 @@ C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameSettings\Intermedi
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\Development\GameSettings\Definitions.GameSettings.h"
-/Yu"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\Development\GameSettings\Module.GameSettings.cpp.obj"
-/sourceDependencies C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\Development\GameSettings\Module.GameSettings.cpp.dep.json
+/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\Development\GameSettings\Definitions.GameSettings.h"
+/Yu"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\Development\GameSettings\Module.GameSettings.cpp.obj"
+/sourceDependencies C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\GameSettings\Intermediate\Build\Win64\UnrealEditor\Development\GameSettings\Module.GameSettings.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

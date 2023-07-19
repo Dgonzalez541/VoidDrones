@@ -1,6 +1,6 @@
-C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Module.CommonStartupLoadingScreen.cpp
+C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Module.CommonStartupLoadingScreen.cpp
 /I .
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen\Private
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Source\CommonStartupLoadingScreen\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -273,7 +273,7 @@ C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\In
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MoviePlayer\UHT
 /I Runtime\MoviePlayer\Public
 /I Runtime\PreLoadScreen\Public
-/I C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Source
+/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Source
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -283,12 +283,12 @@ C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\In
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Definitions.CommonStartupLoadingScreen.h"
-/Yu"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Intermediate\Build\Win64\LyraEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Module.CommonStartupLoadingScreen.cpp.obj"
-/sourceDependencies C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Module.CommonStartupLoadingScreen.cpp.dep.json
+/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Definitions.CommonStartupLoadingScreen.h"
+/Yu"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Module.CommonStartupLoadingScreen.cpp.obj"
+/sourceDependencies C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Development\CommonStartupLoadingScreen\Module.CommonStartupLoadingScreen.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

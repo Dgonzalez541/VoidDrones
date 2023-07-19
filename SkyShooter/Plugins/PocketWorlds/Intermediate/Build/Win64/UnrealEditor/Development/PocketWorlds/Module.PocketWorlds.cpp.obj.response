@@ -1,10 +1,10 @@
-C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\PocketWorlds\Intermediate\Build\Win64\UnrealEditor\Development\PocketWorlds\Module.PocketWorlds.cpp
+C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\PocketWorlds\Intermediate\Build\Win64\UnrealEditor\Development\PocketWorlds\Module.PocketWorlds.cpp
 /I .
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\PocketWorlds\Source\Private
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\PocketWorlds\Intermediate\Build\Win64\UnrealEditor\Inc\PocketWorlds\UHT
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\PocketWorlds
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\PocketWorlds\Source
-/I C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\PocketWorlds\Source\Public
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\PocketWorlds\Source\Private
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\PocketWorlds\Intermediate\Build\Win64\UnrealEditor\Inc\PocketWorlds\UHT
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\PocketWorlds
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\PocketWorlds\Source
+/I C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\PocketWorlds\Source\Public
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -283,12 +283,12 @@ C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\PocketWorlds\Intermed
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\PocketWorlds\Intermediate\Build\Win64\UnrealEditor\Development\PocketWorlds\Definitions.PocketWorlds.h"
-/Yu"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\PocketWorlds\Intermediate\Build\Win64\UnrealEditor\Development\PocketWorlds\Module.PocketWorlds.cpp.obj"
-/sourceDependencies C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\PocketWorlds\Intermediate\Build\Win64\UnrealEditor\Development\PocketWorlds\Module.PocketWorlds.cpp.dep.json
+/FI"C:\UnrealProjects\VoidDrones\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\PocketWorlds\Intermediate\Build\Win64\UnrealEditor\Development\PocketWorlds\Definitions.PocketWorlds.h"
+/Yu"C:\UnrealProjects\VoidDrones\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\UnrealProjects\VoidDrones\SkyShooter\Intermediate\Build\Win64\SkyShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\PocketWorlds\Intermediate\Build\Win64\UnrealEditor\Development\PocketWorlds\Module.PocketWorlds.cpp.obj"
+/sourceDependencies C:\UnrealProjects\VoidDrones\SkyShooter\Plugins\PocketWorlds\Intermediate\Build\Win64\UnrealEditor\Development\PocketWorlds\Module.PocketWorlds.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

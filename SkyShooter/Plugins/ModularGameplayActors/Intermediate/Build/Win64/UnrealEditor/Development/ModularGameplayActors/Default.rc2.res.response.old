@@ -68,7 +68,7 @@
 /DBUILD_VERSION=++UE5+Release-5.1-CL-23901901
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
-/DPROJECT_PRODUCT_NAME=Lyra
-/DPROJECT_PRODUCT_IDENTIFIER=LyraStarterGame
-/fo "C:\UnrealProjects\test\SkyShooter\LyraStarterGame\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\Default.rc2.res"
+/DPROJECT_PRODUCT_NAME=SkyShooter
+/DPROJECT_PRODUCT_IDENTIFIER=SkyShooter
+/fo "C:\UnrealProjects\SkyShooter\SkyShooter\SkyShooter\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Development\ModularGameplayActors\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
