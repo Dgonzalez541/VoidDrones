@@ -16,5 +16,8 @@ Void Drones is a fast paced third person shooter with a focus on vertical moveme
 <br>
 <br>
 <br>
-<img align="left" src="https://github.com/Dgonzalez541/VoidDrones/blob/main/docs/Soldier.gif?raw=true">
-<img align="right" src="https://github.com/Dgonzalez541/VoidDrones/blob/main/docs/Spider.gif?raw=true">
+<img align="center" src="https://github.com/Dgonzalez541/VoidDrones/blob/main/docs/Soldier.gif?raw=true">
+<br>
+<br>
+
+<img align="center" src="https://github.com/Dgonzalez541/VoidDrones/blob/main/docs/Spider.gif?raw=true">
