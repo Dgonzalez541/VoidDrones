@@ -11,3 +11,10 @@ Void Drones is a fast paced third person shooter with a focus on vertical moveme
 
 ### The Drones
 <img align="left" src="https://github.com/Dgonzalez541/VoidDrones/blob/main/docs/Drone.png?raw=true" alt="alt text" width="200" height="200">Due to the verticality and lack of floors on levels, enemies should primarily be flying. Enemies should also visually reflect the level they exist in. In Hourglass, the drones use the same blackholes and rotating machinery that the level has.Attacks can come from any direction so ample visual and auditory cues are necessary to ensure the player can react to attacks.  The drones change color and give an auditory cue before an attack.  Laser attacks are performed as large sweeping beams that the player can avoid. The attacks start near the player, and follow in a way that the player can avoid.
+<br>
+<br>
+<br>
+<br>
+<br>
+<img align="left" src="https://github.com/Dgonzalez541/VoidDrones/blob/main/docs/Soldier.gif?raw=true">
+<img align="right" src="https://github.com/Dgonzalez541/VoidDrones/blob/main/docs/Spider.gif?raw=true">
